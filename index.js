@@ -18,6 +18,7 @@ const translate = async (text, lenguages, type = 'txt') => {
     await doc.loadInfo() // loads document properties and worksheets
 
     if (type === 'txt') {
+       
         const sheet = doc.sheetsByTitle["Translate text"] // or use doc.sheetsById[id] or doc.sheetsByTitle[title]
 
         await sheet.loadCells('A1:B2') // loads a range of cells
@@ -30,16 +31,15 @@ const translate = async (text, lenguages, type = 'txt') => {
         //Add original text in cell A2
         A2.value = text
 
-        //Create formula in B2
-        let formulaTranslate
-
-        formulaTranslate = `=GOOGLETRANSLATE("A2";"${lenguages[lenguages.length - 2]}";"${lenguages[lenguages.length - 1]}")`
+        //Create formula in B3
+        let formulaTranslate = `=GOOGLETRANSLATE(A2;"${lenguages[lenguages.length - 2]}";"${lenguages[lenguages.length - 1]}")`
         for (let i = lenguages.length - 2; i > 0; i--) {
             formulaTranslate = formulaTranslate.replace('A2', `GOOGLETRANSLATE(A2;"${lenguages[i - 1]}";"${lenguages[i]}")`)
         }
 
         B2.formula = formulaTranslate
 
+        //Save and update cells
         await sheet.saveUpdatedCells()
 
         console.log(B2.value)
@@ -62,24 +62,21 @@ const translate = async (text, lenguages, type = 'txt') => {
 
         const D2 = sheet.getCellByA1('D2')
 
+         //Add original text in cell A2
+         A2.value = text
+
         //Deleting script tags
         text = text.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/g,"")
 
-        //Add original text in cell A2
-        A2.value = text
-
         //Save html tags
         const tags = text.match(/<(.*?)>/g)
-       console.log(tags.length)
       
-        //Step 1: Delete contain tags (cell B2)
-       // text = text.replace(/\n|\t/g,"")
+        //Step 1: Delete contain tags and sustite for "javascript\n" (cell B3)
         text = text.replace(/<(.*?)>/g, "<javascript>\n")
 
-      
         B2.value = text
 
-        //Step 2: create formula and translate (cell C2)
+        //Step 2: create formula and translate (cell C3)
         let formulaTranslate
 
         formulaTranslate = `=GOOGLETRANSLATE(B2;"${lenguages[lenguages.length - 2]}";"${lenguages[lenguages.length - 1]}")`
@@ -89,6 +86,7 @@ const translate = async (text, lenguages, type = 'txt') => {
 
         C2.formula = formulaTranslate
 
+         //Save and update cells
         await sheet.saveUpdatedCells()
 
         
@@ -96,8 +94,11 @@ const translate = async (text, lenguages, type = 'txt') => {
 
          textTranslated  = textTranslated.replace(/<javascript>[.]/gi,"<javascript>")
          const tagsJavascript = textTranslated.match(/<javascript>/gi)
+         console.log(tags.length)
          console.log(tagsJavascript.length)
-        //Add original tags
+
+
+        //Add original tags and copy the final text in D3
         tags.forEach(tag => {
            textTranslated = textTranslated.replace(/<javascript>/i, tag)
         })
@@ -106,7 +107,7 @@ const translate = async (text, lenguages, type = 'txt') => {
 
         await sheet.saveUpdatedCells()
 
-       // console.log(textTranslated)
+        //console.log(textTranslated)
 
         return textTranslated
     }
@@ -135,7 +136,7 @@ const writeText = async (text) => {
 
 (async () => {
     const text = await readText()
-    const textTranslated = await translate(text, ["es","pt", "es","ca","es"], 'html')
+    const textTranslated = await translate(text, ["es","en"],"html")
     await writeText(textTranslated)
 })()
 

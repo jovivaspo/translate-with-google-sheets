@@ -1,440 +1,325 @@
-<div class="post_ctn clearfix">
- 
-    <!-- .title -->
+<div class="blob js-post-images-container">
 
-    <div class="post-title">
+  <p>
+MSI has not lost time. If a few days ago Nvidia announced his <a href="https://www.xataka.com/componentes/nvidia-geforce-rtx-3000-caracteristicas-precio-ficha-tecnica">
+New RTX 3000 </a>
+, now it has been MSI that has announced the <strong>
+Meg aegis ti5 </strong>
+, a gaming tower of the highest range that, of course, can reassemble an RTX 3080 in its most powerful configuration. And if that were not enough, it is not short in processor and RAM memory, since it admits up to 128 GB. </p>
 
-      <h2>
-<a href="https://www.clinica-galatea.com/es/bloc/liderazgo-instituciones-sanitarias/" class="tiptip">
-
-        La importancia de un liderazgo efectivo y saludable en instituciones sanitarias y sanitarias </a>
-</h2>
-
-    </div>
-
-     <!-- .title END-->
- 
-     <!-- post-info-top -->
-
-    <div class="post-info">
-<span class="pi_author">
-Para <a href="https://www.clinica-galatea.com/es/bloc/author/continguts_clinica/" title="Entradas de Clínica Galatea" rel="author">
-Galatea Clinic </a>
-    <span class="pi_sep">
-| </span>
-    </span>
-<span class="pi_cat">
-<a href="https://www.clinica-galatea.com/bloc/category/profesionales-de-la-salud/" rel="category tag">
-Profesionales de la salud </a>
-    <span class="pi_sep">
-| </span>
-    </span>
-<span class="pi_comment">
-<a href="https://www.clinica-galatea.com/es/bloc/liderazgo-instituciones-sanitarias/#comments" class="comments-link tiptip">
-1 Evaluación </a>
-    <span class="pi_sep">
-| </span>
-    </span>
-<span class="pi_date">
-22 de octubre, 2021 <span class="pi_sep">
-| </span>
-    </span>
-<span class="pi_like">
-<a href="#" class="zilla-likes tiptip" id="zilla-likes-2702">
-<span class="zilla-likes-count">
-0 </span>
- <span class="zilla-likes-postfix">
-</span>
-</a>
-</span>
-</div>
-
-    <!-- post-info END-->
-     
-    <!-- .entry -->
-    
-    <div class="entry">
-
-      
-<p>
-<strong>
-<em>
-Ent </em>
-</strong>
-<em>
-<strong>
-Miramos a María Pau González Gómez de Olmedo y Montserrat Flat Fernàndez. Maria Pau González </strong>
-Es médico en psicología. Especialista en Psicología Clínica. Máster en Liderazgo y Coaching Organizacional. Coordinador del área para la promoción de la salud y la prevención de la Fundación Galatea. <strong>
-Montserrat Flat </strong>
-Es médico y psicoterapeuta. Máster en Clínica y Salud Mental. Consultor para equipos y organizaciones. Especialista en programas Consultores para programas para la promoción de la salud y prevención de la Fundación Gallastia. </em>
-</p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p class="has-luminous-vivid-amber-background-color has-background">
-<strong>
-La Fundación Galatea ofrece un taller de liderazgo centrado en equipos y instituciones de atención médica. ¿Por qué consideras un tema en el que los profesionales de la salud deben ser entrenados? ¿Eres ejecutado sólo a los que están en posiciones de responsabilidad? </strong>
-</p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
+<!-- BREAK 1 -->
 
 <p>
-La propuesta de este tipo de formación surge de diferentes motivaciones. Una es la complejidad actual de las organizaciones. Los profesionales de la salud desarrollan su actividad en entornos organizativos con grupos, equipos y liderazgo, experiencias de trabajo complejas vívidas y necesitan espacios para crear conciencia, desarrollar, reflejar y formar "know-how" en estos contextos de trabajo complejos. Otra motivación proviene de la audiencia activa de los profesionales a la que asistieron la Fundación Galatea: los conflictos de trabajo y los aspectos individuales se expresan, pero también importantes disfunciones institucionales, equipos y líderes institucionales. Y la tercera motivación proviene de las investigaciones en el campo de las organizaciones y la salud ocupacional mental, principalmente de las contribuciones de Jennie Firth-Cozens, quien concluye que Ecuto VEDE se adapta al factor para la protección de la salud mental del profesional de la salud. Cuando un equipo funciona, dos más dos son siempre más de cuatro y cuando no funciona, dos son siempre menos de cuatro. </p>
+Like almost every Gaming PC, its design is everything less disguised. It is not that it has a couple of RGB fans on the front, but the cabinet has a <strong>
+Very aggressive and peculiar way </strong>
+, similar to a science fiction robot helmet, with two LED strips on the front, as many on the side and as many in the lower area. Special mention deserves the front indicator, which will serve to control the performance of the PC. </p>
 
+<!-- BREAK 2 -->
+ <div id="div-gpt-m-out" style="width: 1px; height: 1px;">
 
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+  
+ <div id="google_ads_iframe_/1018282/XTK-M-OUT-interior_0__container__" style="border: 0pt none;">
+</div>
 </div>
 
 
+<!--more-->
 
 
-<p>
-La actividad dirigida por la Fundación Galatea está dirigida a profesionales que han tenido, o tendrán una posición de responsabilidad (formal, explícita). Pero todos los profesionales de la salud deben ejercer su responsabilidad y llevar su documento profesional sobre el papel; Por esta razón, el taller también está abierto a profesionales motivados, incluso si no tienen ninguna responsabilidad explícita. </p>
+<div class="desvio-container">
 
+ <div class="desvio">
 
+  <div class="desvio-figure js-desvio-figure">
 
+   <a href="https://www.xataka.com/ordenadores/decidido-a-estrenar-pc-te-proponemos-tres-configuraciones-ideales-para-ofimatica-juegos-creacion-contenidos">
 
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+    <img src="https://i.blogs.es/cc276b/pcconfigap/375_142.jpg" alt="¿Decidido a estrenar PC? Te proponemos tres configuraciones ideales para ofimática, juegos y creación de contenidos">
+
+   </a>
+
+  </div>
+
+  <div class="desvio-summary">
+
+   <div class="desvio-taxonomy js-desvio-taxonomy">
+
+    <a href="https://www.xataka.com/ordenadores/decidido-a-estrenar-pc-te-proponemos-tres-configuraciones-ideales-para-ofimatica-juegos-creacion-contenidos" class="desvio-taxonomy-anchor">
+In xataka </a>
+
+   </div>
+
+   <a href="https://www.xataka.com/ordenadores/decidido-a-estrenar-pc-te-proponemos-tres-configuraciones-ideales-para-ofimatica-juegos-creacion-contenidos" class="desvio-title js-desvio-title">
+Did you decide to premiere PC? We propose three ideal configurations for Office, Games and content creation </a>
+
+  </div>
+
+ </div>
+
 </div>
 
 
+<h2>
+Technical Sheet of MSI Meg Aegis Ti5 </h2>
 
 
-<p class="has-luminous-vivid-amber-background-color has-background">
-<strong>
-Los romanos distinguen entre "poderes" y "adherentes". El primero pareció simplemente mostrar poder y el segundo, por lo que llamamos "autoridad moral" o capacidad de liderazgo. ¿Cómo se puede alentar el segundo? </strong>
-</p>
+ <div class="article-asset-table article-asset-normal">
+ <div class="asset-content">
+ <table class="tabla-datos">
+ <thead>
+ <tr>
+ <th>
+ </th>
+ <th>
+ <p>
+MSI Meg Aegis Ti5 </p>
+ </th>
+ </tr>
+ </thead>
+ <tbody>
+<tr>
+ <th>
+ <p>
+Dimensions </p>
+ </th>
+ <td>
+ <p>
+551 x 239 x 511 mm </p>
+ </td>
+ </tr>
+ <tr>
+ <th>
+ <p>
+Processor </p>
+ </th>
+ <td>
+ <p>
+Intel Core I9 - 10900K </p>
+ </td>
+ </tr>
+ <tr>
+ <th>
+ <p>
+Base plate </p>
+ </th>
+ <td>
+ <p>
+Intel Z490 </p>
+ </td>
+ </tr>
+ <tr>
+ <th>
+ <p>
+Graphic card </p>
+ </th>
+ <td>
+ <p>
+To MSI GeForce RTX 3080 </p>
+ </td>
+ </tr>
+ <tr>
+ <th>
+ <p>
+RAM memory </p>
+ </th>
+ <td>
+ <p>
+Up to 128 GB DDR4 (4x U-DIMM) </p>
+ </td>
+ </tr>
+ <tr>
+ <th>
+ <p>
+Internal storage </p>
+ </th>
+ <td>
+ <p>
+3 x M.2 2280 SSD (2xsata / PCIE Combo,
+1x PCIE) <br>
 
+2 x 2.5 "<br>
 
+1 x 3.5 "</p>
+ </td>
+ </tr>
+ <tr>
+ <th>
+ <p>
+Operating system </p>
+ </th>
+ <td>
+ <p>
+Windows 10 Home </p>
+ </td>
+ </tr>
+ <tr>
+ <th>
+ <p>
+Connectivity </p>
+ </th>
+ <td>
+ <p>
+Wi-Fi 6 ax201 <br>
 
+LAN 2.5G (Intel WGI225V) +
+1g (Intel WGI219V) <br>
 
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+Bluetooth 5.1 </p>
+ </td>
+ </tr>
+ <tr>
+ <th>
+ <p>
+Power supply </p>
+ </th>
+ <td>
+ <p>
+Modular 750W 80 Plus Gold </p>
+ </td>
+ </tr>
+ <tr>
+ <th>
+ <p>
+Ports </p>
+ </th>
+ <td>
+ <p>
+1 x USB 3.2 GEN2 Type C <br>
+
+2 x USB 3.2 GEN1 Type A <br>
+
+1x mic-in <br>
+
+1x headphone-out <br>
+
+2 x USB 2.0 <br>
+
+1 x combined port PS / 2 <br>
+
+1x HDMI output <br>
+
+1 x USB 3.2 GEN 2 TYPE C <br>
+
+3 x USB 3.2 GEN 2 Type A <br>
+
+1 x thunderbolt 3 <br>
+
+2 x RJ45 (2.5g + gigabit LAN) <br>
+
+5X Audio Connectors <br>
+
+1 Optics S / PDIF </p>
+ </td>
+ </tr>
+ <tr>
+ <th>
+ <p>
+Price </p>
+ </th>
+ <td>
+ <p>
+To determine </p>
+ </td>
+ </tr>
+ </tbody>
+</table>
+ </div>
+
 </div>
 
 
+<h2>
+A brutal pc gaming </h2>
 
 
-<p>
-A menudo encontramos una variedad de opiniones relacionadas con el concepto de autoridad y poder. Se puede ayudar a ir a la etimología de la palabra autoridad, que es un esclarecedor. La Autoridad proviene de la palabra "Autor", el latín de la raíz es "Augere". En consecuencia, el "autor" no es necesariamente quien cree que solo alguien que lo hace crecer y prosperar, es una calidad creativa de la persona. En un sentido moral y psicológico, apunta a la forma de ser una persona que genera un seguimiento de los valores propuestos. Sin embargo, lo que tiene autoridad no destruye al otro (autoritarismo), de su experiencia, ayuda a crecer el otro. </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+<div class="article-asset-image article-asset-normal">
+<div class="asset-content">
+ <div class="base-wrapper-image" style="padding-top: 49%;">
+ <img class="centro_sinmarco" data-sf-srcset="https://i.blogs.es/a146cc/aegis/450_1000.jpg 450w, https://i.blogs.es/a146cc/aegis/650_1200.jpg 681w, https://i.blogs.es/a146cc/aegis/1024_2000.jpg 1024w, https://i.blogs.es/a146cc/aegis/1366_2000.jpg 1366w" data-sf-src="https://i.blogs.es/a146cc/aegis/450_1000.jpg" alt="Aegis" srcset="https://i.blogs.es/a146cc/aegis/450_1000.jpg 450w, https://i.blogs.es/a146cc/aegis/650_1200.jpg 681w, https://i.blogs.es/a146cc/aegis/1024_2000.jpg 1024w, https://i.blogs.es/a146cc/aegis/1366_2000.jpg 1366w" src="https://i.blogs.es/a146cc/aegis/450_1000.jpg">
+<noscript>
+<img alt="Aegis" src="https://i.blogs.es/a146cc/aegis/450_1000.jpg">
+</noscript>
+ </div>
+ </div>
 </div>
-
-
-
-
-<p>
-Alguien tendrá autoridad sobre mí, ya que reconozco que su presencia en mi vida profesional es buena para mí y es un crecimiento. Cuando se dan cuenta de que en la relación con otra persona, hay una perspectiva de crecimiento y realización, no se sentirá incómodo reconocer la autoridad como legítima, y ​​puede obedecer su poder porque lo reconoce como bueno. </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p>
-Los "autorías" se basan en el reconocimiento de quienes lo reciben voluntariamente porque lo considera un consejo beneficioso o una influencia. Los "poderes" están relacionados, por otro lado, con un orden que solo requiere la presentación y el cumplimiento. </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p>
-¿Se puede alentar la autoridad? En el cable decimos, promoviendo la autoridad, el profesional debe tener habilidades y habilidades en el campo del liderazgo, pero básicamente debe transmitir los valores y debe poder comunicarse con la otra, de su experiencia, su experiencia, de su Experiencia, de su experiencia, su experiencia su experiencia, su experiencia, quiere contribuir a su crecimiento profesional. ¿Quién es el papel principal debe preguntarle: qué quiero? Mejore el crecimiento profesional y la calidad de la tarea y, como consecuencia, aquellos que se llevan a cabo ("AUTEUR") y simplemente obedecen ("poder"). </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p>
-Anton Obolzer, al analizar el papel del inconsciente en el trabajo, se refiere a <em>
-Autoridad Superior, </em>
- El dado por la organización; <em>
-Baja Autoridad, </em>
- Reconoce y ratifica al equipo y <em>
-Autoridad Interna </em>
-, lo que se reconoce, la autorización o la confirmación del individuo. La autoridad en la mente, cuál de ellos es de sí misma, es un aspecto crucial de cómo y en qué medida y la competencia es el papel principal. Este es un aspecto clave para promover la autoridad y el ejercicio. </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p class="has-luminous-vivid-amber-background-color has-background">
-<strong>
-¿Cuáles son los principales estilos de liderazgo? ¿Cómo influyes en su computadora o instituciones? </strong>
-</p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p>
-El liderazgo se estudia a partir de tres grupos de teorías: a) aquellos que se centran en las características personales del líder; b) Aquellos que analizan los estilos de liderazgo y (c) teorías de contingencia, que estudian la relación del líder con su grupo y el trabajo a realizar. </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p>
-Estilos de liderazgo clásico, descrito por Kurt Lewin, contemplado de <em>
-Liderazgo autoritario </em>
-o <em>
- Estructura </em>
-Para <em>
-Demócrata </em>
-o <em>
- Soporte </em>
- o <em>
-Laissez-Faire </em>
-. Las teorías más recientes también incluyen otras dimensiones. En las actividades de la Fundación Galatea, incorporamos la perspectiva de la gestión corporativa de Hersey & AMP; Blanchard, que busca la correlación entre la tarea que se llevará a cabo y la conexión interpersonal con el líder. Y también incluimos la noción de liderazgo tridimensional de Gary Yukl, lo que afecta a la función de gestión triple del líder: a) tarea; b) de personas y c) de cambio. </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p>
-Pero básicamente, trabajamos cerca de las llamadas de contingencia por las teorías. Fiedler, uno de los autores más discapacitados, sugiere que lo más importante es la relación del líder con el grupo, especialmente entre el trabajo que se llevará a cabo y la situación del poder del líder. El líder con su estilo de operación, el grupo / equipo y la tarea de hacer deben llegar a un estilo de acuerdo. </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
 
 
 <p>
-Por ejemplo: un líder con características muy democráticas y flexibles, en un grupo que depende de un límite, con una tarea para realizar, en una organización que delega poco poder, no adopta el mismo estilo de operación y la tarea probablemente será Hecho con dificultad y generar frustración tanto en el grupo como en el líder. En este grupo y para esta tarea, sería mejor adaptarse a un líder menos democrático y autoritario. Por otro lado, un grupo creativo que tiene que llevar a cabo una tarea innovadora se beneficiará de un líder flexible y colaborativo, mientras que una "estructuración autorizada" no estaría bien alineada con el grupo. </p>
+We talked before the design, but leaving aside the aesthetics, it is advisable to pay special attention to the front and refrigeration. On the one hand, the tower has a front indicator (with RGB, left over), which allows <strong>
+Alternate between different performance modes </strong>
+. In addition, it can be configured so that when you press it determined game and even to work as a light control panel and sound. MSI ensures that it is equipped with IA and that is able to detect our location to show us information such as time and temperature directly in the Knob. </p>
 
+<!-- BREAK 3 -->
 
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+<div class="article-asset-image article-asset-normal">
+<div class="asset-content">
+ <div class="base-wrapper-image" style="padding-top: 53.888888888889%;">
+ <img class="centro_sinmarco" data-sf-srcset="https://i.blogs.es/d19a3d/frontal/450_1000.jpg 450w, https://i.blogs.es/d19a3d/frontal/650_1200.jpg 681w, https://i.blogs.es/d19a3d/frontal/1024_2000.jpg 1024w, https://i.blogs.es/d19a3d/frontal/1366_2000.jpg 1366w" data-sf-src="https://i.blogs.es/d19a3d/frontal/450_1000.jpg" alt="Frontal" srcset="https://i.blogs.es/d19a3d/frontal/450_1000.jpg 450w, https://i.blogs.es/d19a3d/frontal/650_1200.jpg 681w, https://i.blogs.es/d19a3d/frontal/1024_2000.jpg 1024w, https://i.blogs.es/d19a3d/frontal/1366_2000.jpg 1366w" src="https://i.blogs.es/d19a3d/frontal/450_1000.jpg">
+<noscript>
+<img alt="Frontal" src="https://i.blogs.es/d19a3d/frontal/450_1000.jpg">
+</noscript>
+ </div>
+ </div>
 </div>
-
-
 
 
 <p>
-Cuando hablamos, también nos referimos a la distancia entre el grupo, el líder y el trabajo que permite diferenciar y avanzar. Es aconsejable que el líder se mantenga un poco por delante del grupo; Si la distancia entre el líder y el grupo es excelente, el grupo no lo seguirá, si es pequeño, el grupo no avanza. </p>
+As for refrigeration, MSI has opted for its technology <strong>
+Silent Storm Cooling 4 </strong>
+. It is a dissipation technology that consists of separating the GPU and CPU into two compartments and adding a ventilation to the back of the plate to cool the Voltage Regulator Module. Needless to say that the processor has its own <a href="https://www.xataka.com/componentes/refrigeracion-liquida-que-como-funciona-cuando-merece-pena-apostar-ella-para-propulsar-nuestro-pc">
+Liquid refrigeration all in one </a>
+. </p>
 
+<!-- BREAK 4 -->
+ <div class="ad ad-mid" style="">
 
+  <div class="ad-box" id="div-gpt-m-lat" style="">
 
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p class="has-luminous-vivid-amber-background-color has-background">
-<strong>
-¿Qué se refiere al concepto de cultura de las organizaciones? ¿Cómo influyen en nuestro trabajo diario? </strong>
-</p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p>
-Entendemos la cultura de la organización el grupo de creencias explícitas del grupo, normas, valores, rituales, lenguaje y estilo de comunicación compartidos por las personas de una organización. Se manifiesta en comportamientos y expresiones que guían la actitud de las personas que están compuestas y tienen que ver con los orígenes y la historia de la organización. Muestra, dando imagen corporativa y dentro, como el ambiente o el clima de trabajo. </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p>
-La cultura de una organización influye en muchos aspectos. Asignamos dos que son muy comunes en nuestro entorno. Cuando un profesional ingresa a una organización, recibe impactos culturales en el comportamiento, cómo vestirse, cumplir los horarios y los valores que deben incorporarse total o parcialmente para ser parte de esta organización. Si una persona no puede incorporar y compartir la cultura del grupo, tendrá una adaptación difícil y no se puede adaptar. </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p>
-La cultura también afecta significativamente los procesos de cambio. Cuando surge un líder, debe contemplar estratégicamente y trabajar en el cambio cultural involucrado en el grupo. Por ejemplo, un hospital que quiere lograr el objetivo de "poner al paciente y sus familiares al centro de atención" puede llevar al servicio de neonatología para organizar y trabajar para que los padres entretengan en cualquier momento para acompañar a su bebé. Mientras que, hasta entonces, solo se contemplaron el acceso de los padres a ciertos planes de tiempo. Esta transformación es un cambio cultural a los profesionales y también para los miembros de la familia. </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p class="has-luminous-vivid-amber-background-color has-background">
-<strong>
-¿Cree que las experiencias experimentadas por los profesionales de la salud e instituciones durante VOC-19 promovieron un aumento de interés en estos problemas de salud? & Nbsp; </strong>
-</p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p>
-La crisis covid-19 contribuyó y confirmó la importancia del trabajo en equipo y el acuerdo entre la tarea y el equipo de liderazgo. Hemos observado que los equipos ya han trabajado con dinámicas positivas tienen mejores conflictos obsoletos y han contribuido a mejorar el bienestar de los profesionales o, al menos, a ser servido como un modulador de las diferentes fuentes de incomodidad que se activaron después de la pandemia. Mientras que los equipos en los que sucedió lo contrario, ya estaban disfuncionales antes de COVID-19. </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p>
-Hemos observado que el liderazgo acordó más con la situación que la pandemia activada ha sido el liderazgo de la estructuración autoritaria, la empatía y la transparencia, sino el ejercicio de la autoridad y la decisión de incertidumbre. </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p>
-Esta situación despertó interés en las áreas organizativas y de gestión, aunque los profesionales de la salud aún están lejos de contribuir, activamente y colaborativamente, para encontrar mejores formas de gestionar el trabajo. </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p class="has-luminous-vivid-amber-background-color has-background">
-<strong>
-¿Cómo crees que debe unirse al aprendizaje de estas habilidades en la capacitación de los profesionales de la salud? & Nbsp; </strong>
-</p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p>
-Aprenda habilidades para trabajar como equipo y liderazgo, en el sentido de ejercer la autoridad de que la función se rinde, debe estar presente en el proceso de capacitación de todos los profesionales de la salud. </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p>
-En la capacitación en grado, la metodología debe incorporarse o ampliarse como un equipo y tiene espacios para identificar y observar los incidentes, las dificultades y los beneficios del trabajo en equipo. </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p>
-En la residencia, así como las formaciones de capacitación de graduados y profesionales, este tipo de habilidad se adquiere fundamentalmente por el aprendizaje experimentado, basado en la sensación, la observación, el pensamiento y la acción. Por esta razón, es necesario tener un tutorial espacial y llevar a cabo profesionales experimentados en este campo que favorece la elaboración de las diferentes experiencias y poder integrarlos para mejorar la autoridad y el ejercicio del papel. </p>
-
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
-</div>
-
-
-
-
-<p>
-Esta capacitación, enfocada en el aprendizaje y el conocimiento, debe complementarse con aspectos y habilidades conceptuales que contribuyen al aprendizaje satisfactorio. </p>
-
-    </div>
    
-    <!-- .entry END -->
- 
-     </div>
+  <div id="google_ads_iframe_/1018282/XTK-M-LAT-interior_0__container__" style="border: 0pt none; width: 300px; height: 0px;">
+</div>
+</div>
+
+ </div>
+
+
+<div class="article-asset-image article-asset-normal">
+<div class="asset-content">
+ <div class="base-wrapper-image" style="padding-top: 48.444444444444%;">
+ <img class="centro_sinmarco" data-sf-srcset="https://i.blogs.es/8ecd14/cooling/450_1000.jpg 450w, https://i.blogs.es/8ecd14/cooling/650_1200.jpg 681w, https://i.blogs.es/8ecd14/cooling/1024_2000.jpg 1024w, https://i.blogs.es/8ecd14/cooling/1366_2000.jpg 1366w" data-sf-src="https://i.blogs.es/8ecd14/cooling/450_1000.jpg" alt="Cooling" srcset="https://i.blogs.es/8ecd14/cooling/450_1000.jpg 450w, https://i.blogs.es/8ecd14/cooling/650_1200.jpg 681w, https://i.blogs.es/8ecd14/cooling/1024_2000.jpg 1024w, https://i.blogs.es/8ecd14/cooling/1366_2000.jpg 1366w" src="https://i.blogs.es/8ecd14/cooling/450_1000.jpg">
+<noscript>
+<img alt="Cooling" src="https://i.blogs.es/8ecd14/cooling/450_1000.jpg">
+</noscript>
+ </div>
+ </div>
+</div>
+
+
+<p>
+As for components, the tower does not fall short. In its highest configuration, the MEG AEGIS TI5 mounts a processor <a href="https://www.xataka.com/analisis/intel-core-i9-10900k-core-i5-10600k-analisis-caracteristicas-precio-especificaciones">
+Intel Core I9-10900K </a>
+, an Intel Z490 plate, a <strong>
+MSI GeForce RTX 3080 and up to 128 GB RAM DDR4 </strong>
+. It has three bays M.2 (2 x SATA / PCIE and a PCIe), two 2.5-inch bays and a 2.5-inch and a modular psu of 750W category 80 plus gold. Connectivity is in charge of WiFi 6, LAN 2.5 G + 1G and Bluetooth 5.1. </p>
+
+<!-- BREAK 5 -->
+
+<p>
+Finally, it should be noted that the PC rides the <strong> technology
+MSI Sound Tune </strong>
+, which uses artificial intelligence to filter the noise of the environment and the microphone of the rest of the players to offer a clearer communication. It is a kind of noise cancellation based on a deep neuronal network that has been trained with more than 500 million data. </p>
+
+<!-- BREAK 6 -->
+
+<h2>
+Versions and price of the MSI Meg Aegis Ti5 </h2>
+
+
+<p>
+And how much does this PC monstrosity cost? MSI is a fact that is kept for her for now. The company <strong>
+It has not revealed or the price or availability </strong>
+, But we will be pending to add the data when it is available. </p>
+
+<!-- BREAK 7 -->
+   
+ </div>

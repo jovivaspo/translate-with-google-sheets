@@ -1,241 +1,79 @@
-<div class="post_ctn clearfix"> 
-    <!-- .title -->
-    <div class="post-title">
-      <h2><a href="https://www.clinica-galatea.com/es/bloc/liderazgo-instituciones-sanitarias/" class="tiptip">
-        La importancia de un liderazgo eficaz y saludable en los equipos e instituciones sanitarias        </a></h2>
-    </div>
-     <!-- .title END--> 
-     <!-- post-info-top -->
-    <div class="post-info"><span class="pi_author">By <a href="https://www.clinica-galatea.com/es/bloc/author/continguts_clinica/" title="Entradas de Clínica Galatea" rel="author">Clínica Galatea</a>    <span class="pi_sep">|</span>    </span><span class="pi_cat"><a href="https://www.clinica-galatea.com/bloc/category/profesionales-de-la-salud/" rel="category tag">profesionales de la salud</a>    <span class="pi_sep">|</span>    </span><span class="pi_comment"><a href="https://www.clinica-galatea.com/es/bloc/liderazgo-instituciones-sanitarias/#comments" class="comments-link tiptip">1  comment</a>    <span class="pi_sep">|</span>    </span><span class="pi_date">22 octubre, 2021    <span class="pi_sep">|</span>    </span><span class="pi_like"><a href="#" class="zilla-likes tiptip" id="zilla-likes-2702"><span class="zilla-likes-count">0</span> <span class="zilla-likes-postfix"></span></a></span></div>
-    <!-- post-info END-->     
-    <!-- .entry -->    
-    <div class="entry">
-      
-<p><strong><em>Ent</em></strong><em><strong>revistamos a Maria Pau González Gómez de Olmedo y a Montserrat Plana Fernàndez. Maria Pau González </strong>es doctora en Psicología. Especialista en Psicología Clínica. Máster en Liderazgo y Coaching Organizativo. Coordinadora del área de promoción de la salud y prevención de la Fundación Galatea. <strong>Montserrat Plana </strong>es médica y psicoterapeuta. Máster en Clínica y Salud Mental. Consultora de equipos y organizaciones. Experta en grupos. Asesora de los programas de promoción de la salud y prevención de la Fundación Galatea.</em></p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p class="has-luminous-vivid-amber-background-color has-background"><strong>La Fundación Galatea lleva unos años ofreciendo un taller sobre liderazgo enfocado a los equipos e instituciones sanitarias. ¿Por qué consideran que es un tema en el que los profesionales de la salud deben formarse? ¿Está dirigido sólo a quienes están en puestos de responsabilidad?</strong></p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>La propuesta de este tipo de formación surge de diferentes motivaciones. Una de ellas es la complejidad actual de las organizaciones. Los profesionales de la salud desarrollan su actividad en entornos organizativos con grupos, equipos y liderazgos, viven experiencias laborales complejas y necesitan espacios donde sensibilizar, elaborar, reflexionar y formarse para adecuar el “saber estar” en estos contextos laborales complejos. Otra motivación viene de la escucha activa de los profesionales que se atienden en la Fundación Galatea: en sus relatos se expresa conflicto laboral y se manifiestan aspectos individuales, pero también importantes disfunciones institucionales, de los equipos y de los líderes. Y la tercera motivación viene de las investigaciones en el campo de las organizaciones y de la salud mental laboral, principalmente de las aportaciones de Jennie Firth-Cozens, que concluyen que el equipo puede convertirse en un factor de protección para la salud mental de los profesionales de la salud. Cuando un equipo funciona, dos más dos siempre es más que cuatro y, cuando no funciona, dos más dos es siempre menos que cuatro.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>La actividad que dirige la Fundación Galatea va dirigida a profesionales que han tenido, tienen o tendrán un puesto de responsabilidad (formal, explícita). Pero todos los profesionales sanitarios han de ejercer su responsabilidad y liderar desde el rol su actividad profesional; por este motivo el taller también está abierto a los profesionales motivados, aunque no tengan una responsabilidad explícita.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p class="has-luminous-vivid-amber-background-color has-background"><strong>Los romanos distinguían entre “potestas” y “auctoritas”. La primera hacía referencia simplemente a ostentar el poder, y la segunda, a lo que llamamos “autoridad moral” o capacidad de liderazgo. ¿Cómo puede fomentarse la segunda?</strong></p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>Encontramos con frecuencia diversidad de opiniones relacionadas con el concepto de autoridad y poder. Quizás ayude recorrer a la etimología de la palabra autoridad, que es esclarecedora. Autoridad proviene de la palabra “autor”, cuya raíz latina es “augere”. Según esto, “autor” no es necesariamente quien crea sino aquel que hace que algo crezca y prospere, es una cualidad creadora de la persona. En un sentido moral y psicológico, señala el modo de ser de una persona que suscita seguimiento en los valores que propone. El que tiene autoridad no destruye al otro (autoritarismo) sino que, desde su experiencia, ayuda a crecer al otro.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>Alguien tendrá autoridad sobre mí en la medida en la que reconozco que su presencia en mi vida profesional es un bien para mí y supone un crecimiento. Cuando uno percibe que, en la relación con otra persona, hay perspectiva de crecimiento y realización, no tendrá inconveniente en reconocer la autoridad como legítima, y podrá obedecer a su poder porque lo reconoce como bueno.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>La “auctoritas” se fundamenta en el reconocimiento de quien la recibe voluntariamente, por considerarla como un consejo o influencia beneficiosa. La “potestas” se relaciona, en cambio, con un mando que sólo requiere sumisión y acatamiento.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>¿Puede fomentarse la autoridad? Al hilo de lo que veníamos diciendo, para fomentar la autoridad el profesional debe tener capacidades y competencias en el ámbito de liderazgo, pero, fundamentalmente, ha de transmitir valores y ha de ser capaz de comunicar al otro/s que, desde su experiencia, quiere contribuir a su crecimiento profesional. Quien está en el rol de liderazgo debería preguntarse: ¿qué quiero? Potenciar el crecimiento profesional y la calidad del quehacer y, como consecuencia de ello, que quienes dirijo me sigan (“auctoritas”) y no simplemente me obedezcan (“potestas”).</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>Anton Obholzer, al analizar el papel del inconsciente en el trabajo, habla de la <em>autoridad desde arriba,</em> la que te da la organización; la <em>autoridad desde abajo,</em> la que te reconoce y ratifica el equipo, y la <em>autoridad desde dentro</em>, la que uno mismo se reconoce, la autorización o confirmación desde el interior del individuo. La autoridad en la mente, la que uno tiene de sí mismo, es un aspecto crucial sobre cómo, y en qué medida y competencia, es asumido el rol de liderazgo. Este es un aspecto fundamental para fomentar la autoridad y ejercerla.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p class="has-luminous-vivid-amber-background-color has-background"><strong>¿Cuáles son los principales estilos de liderazgo? ¿Cómo influyen en los equipos o instituciones?</strong></p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>El liderazgo se estudia desde tres grupos de teorías: a) las que se centran en las características personales del líder; b) las que analizan los estilos de liderazgo, y, c) las teorías de contingencia, que estudian la relación del líder con su grupo y la tarea a realizar.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>Los estilos clásicos de liderazgo, descritos por Kurt Lewin, contemplan desde el <em>liderazgo autoritario </em>o<em> estructurante</em>, al <em>democrático </em>o<em> de apoyo</em> o al <em>laissez-faire</em>. Las teorías más recientes incluyen también otras dimensiones. En las actividades de la Fundación Galatea, incorporamos la perspectiva del liderazgo situacional de Hersey &amp; Blanchard, que busca la correlación entre tarea a realizar y el vínculo interpersonal con el líder. Y también incluimos la noción de liderazgo tridimensional de Gary Yukl, que incide en la triple función de gestión del líder: a) de la tarea; b) de las personas, y, c) del cambio.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>Pero, fundamentalmente, trabajamos cercanos a las teorías llamadas de contingencia. Fiedler, uno de los autores que más ha ahondado en ello, sugiere que lo más importante es la relación del líder con el grupo, especialmente, entre la tarea a realizar y la situación de poder del líder. El líder con su estilo de funcionamiento, el grupo/equipo y la tarea a realizar tienen que alcanzar un estilo en concordancia.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>Por ejemplo: un líder con características muy democráticas, flexible, en un grupo dependiente poco autónomo, con una tarea a realizar estructurante, en una organización que delega poco el poder, no adoptan el mismo estilo de funcionamiento, y probablemente la tarea se realizará con dificultad y generará frustración tanto al grupo como al líder. En este grupo y para esta tarea encajaría mejor un líder menos democrático, más autoritario. En cambio, un grupo creativo que tiene que realizar una tarea innovadora se beneficiará de un líder flexible y colaborador, mientras que un líder autoritario “estructurante” no se alinearía adecuadamente con el grupo.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>Cuando hablamos de concordancia también nos referimos a encontrar una distancia entre el grupo, el líder y la tarea que permita diferenciarse y avanzar. Es aconsejable que el líder pueda ir un poco por delante del grupo; si la distancia entre líder y grupo es grande, el grupo no le sigue mientras que, si es poca, el grupo no avanza.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p class="has-luminous-vivid-amber-background-color has-background"><strong>¿A qué se refiere el concepto de cultura de las organizaciones? ¿Cómo influye en nuestro quehacer diario?</strong></p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>Entendemos por cultura de la organización el conjunto de creencias explícitas del grupo, normas, valores, rituales, lenguaje y estilo de comunicación compartidos por las personas de una organización. Se manifiesta en comportamientos y expresiones que orientan la actitud de las personas que la integran y tiene que ver con los orígenes y la historia de dicha organización. Se visualiza hacia fuera, dando imagen corporativa, y hacia dentro, como ambiente o clima de trabajo.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>La cultura de una organización influye en muchos aspectos. Resaltaremos dos que son muy habituales en nuestro entorno. Cuando un profesional entra en una organización, recibe impactos culturales sobre comportamiento, manera de vestir, cumplimiento de los horarios y valores que tiene que incorporar total o parcialmente para formar parte de esta organización. Si una persona no puede incorporar y compartir la cultura del grupo, tendrá una adaptación difícil y puede que no se adapte.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>La cultura también afecta notablemente a los procesos de cambio. Cuando un líder se plantea cambios, se ha de contemplar estratégicamente y trabajar el cambio cultural que implica en el grupo. Por ejemplo, un hospital que quiere alcanzar el objetivo de “colocar al paciente y sus familiares en el centro de la atención” puede llevar al servicio de neonatología a organizar y trabajar para que los padres entren en cualquier momento a acompañar a su bebé. Mientras que, hasta entonces, sólo se contemplaba el acceso de los padres en determinadas franjas horarias. Esta transformación supone un cambio cultural para los profesionales y también para los familiares.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p class="has-luminous-vivid-amber-background-color has-background"><strong>¿Creen que las experiencias vividas por los profesionales e instituciones del ámbito de la salud durante la COVID-19 han propiciado un aumento del interés por estas cuestiones entre los sanitarios?&nbsp;</strong></p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>La crisis de la COVID-19 ha contribuido y confirmado la importancia del trabajo en equipo y de la concordancia entre equipo tarea y liderazgo. Hemos observado que los equipos que ya funcionaban con dinámicas positivas han superado mejor los conflictos y han contribuido a mejorar el bienestar de los profesionales o, al menos, han servido de modulador de las distintas fuentes de malestar que se han activado tras la pandemia. Mientras que los equipos en los que ha sucedido lo contrario ya eran disfuncionales antes de la COVID-19.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>Observamos que el liderazgo más concordante con la situación que la pandemia activó ha sido el liderazgo estructurante autoritario, con empatía y transparencia, pero ejerciendo la autoridad y tomando decisiones desde la incertidumbre.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>Esta situación ha suscitado interés en los ámbitos organizativos y de dirección, si bien los profesionales asistenciales aún están lejos de contribuir, de manera activa y colaborativa, a encontrar mejores maneras de gestionar el trabajo.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p class="has-luminous-vivid-amber-background-color has-background"><strong>¿Cómo creen que debe incorporarse el aprendizaje de estas habilidades en el recorrido formativo de los profesionales de la salud?&nbsp;</strong></p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>El aprendizaje de las habilidades para trabajar en equipo y las de liderazgo, en el sentido de ejercer la autoridad que nos confiere el rol, tendría que estar presente en el proceso formativo de todos los profesionales de la salud.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>En la formación de grado, tendría que incorporarse o ampliar la metodología de trabajar en equipo y disponer de espacios para identificar y observar las incidencias, dificultades y beneficios del trabajo en equipo.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>En la residencia, así como en las formaciones de postgrado y a lo largo del desarrollo profesional, este tipo de competencias se adquieren fundamentalmente por el aprendizaje por la experiencia, basado en sentir, observar, pensar y actuar. Para ello, es necesario disponer de espacios tutelados y conducidos por profesionales con experiencia en ese campo que favorezcan la elaboración de las diferentes vivencias y poder integrarlas para potenciar la autoridad y el ejercicio del rol.</p>
-
-
-
-<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p>Esta formación, centrada en el saber ser y saber estar, tiene que complementarse con aspectos conceptuales y habilidades que contribuyan a un aprendizaje satisfactorio.</p>
-    </div>   
-    <!-- .entry END --> 
-     </div>
+<div class="blob js-post-images-container">
+  <p>MSI no ha perdido el tiempo. Si hace unos días NVIDIA anunció sus <a href="https://www.xataka.com/componentes/nvidia-geforce-rtx-3000-caracteristicas-precio-ficha-tecnica">nuevas RTX 3000</a>, ahora ha sido MSI la que ha anunciado el <strong>MEG Aegis Ti5</strong>, una torre gaming de la más alta gama que, por supuesto, puede llegar a montar una RTX 3080 en su configuración más potente. Y por si fuera poco, tampoco se queda corto en procesador y memoria RAM, ya que admite hasta 128 GB.</p>
+<!-- BREAK 1 -->
+<p>Como casi todo PC gaming, su diseño es de todo menos disimulado. No es que tenga un par de ventiladores RGB en el frontal, sino que el gabinete tiene una <strong>forma muy agresiva y peculiar</strong>, similar a un casco de robot de ciencia ficción, con dos tiras LED en el frontal, otras tantas en el lateral y otras tantas en la zona inferior. Mención especial merece el indicador frontal, que servirá para controlar el rendimiento del PC.</p>
+<!-- BREAK 2 --> <div id="div-gpt-m-out" style="width: 1px; height: 1px;">
+  <script>
+   googletag.cmd.push(function() { googletag.display("div-gpt-m-out"); });
+  </script>
+ <div id="google_ads_iframe_/1018282/XTK-M-OUT-interior_0__container__" style="border: 0pt none;"></div></div>
+
+<!--more-->
+
+<div class="desvio-container">
+ <div class="desvio">
+  <div class="desvio-figure js-desvio-figure">
+   <a href="https://www.xataka.com/ordenadores/decidido-a-estrenar-pc-te-proponemos-tres-configuraciones-ideales-para-ofimatica-juegos-creacion-contenidos">
+    <img src="https://i.blogs.es/cc276b/pcconfigap/375_142.jpg" alt="¿Decidido a estrenar PC? Te proponemos tres configuraciones ideales para ofimática, juegos y creación de contenidos">
+   </a>
+  </div>
+  <div class="desvio-summary">
+   <div class="desvio-taxonomy js-desvio-taxonomy">
+    <a href="https://www.xataka.com/ordenadores/decidido-a-estrenar-pc-te-proponemos-tres-configuraciones-ideales-para-ofimatica-juegos-creacion-contenidos" class="desvio-taxonomy-anchor">En Xataka</a>
+   </div>
+   <a href="https://www.xataka.com/ordenadores/decidido-a-estrenar-pc-te-proponemos-tres-configuraciones-ideales-para-ofimatica-juegos-creacion-contenidos" class="desvio-title js-desvio-title">¿Decidido a estrenar PC? Te proponemos tres configuraciones ideales para ofimática, juegos y creación de contenidos</a>
+  </div>
+ </div>
+</div>
+
+<h2>Ficha técnica del MSI MEG Aegis Ti5</h2>
+
+ <div class="article-asset-table article-asset-normal"> <div class="asset-content"> <table class="tabla-datos"> <thead> <tr> <th> </th> <th> <p>MSI MEG Aegis Ti5</p> </th> </tr> </thead> <tbody><tr> <th> <p>DIMENSIONES</p> </th> <td> <p>551 x 239 x 511 mm</p> </td> </tr> <tr> <th> <p>PROCESADOR</p> </th> <td> <p>Intel Core i9 – 10900K</p> </td> </tr> <tr> <th> <p>PLACA BASE</p> </th> <td> <p>Intel Z490</p> </td> </tr> <tr> <th> <p>TARJETA GRÁFICA</p> </th> <td> <p>Hasta MSI GeForce RTX 3080</p> </td> </tr> <tr> <th> <p>MEMORIA RAM</p> </th> <td> <p>Hasta 128 GB DDR4 (4X U-DIMM)</p> </td> </tr> <tr> <th> <p>ALMACENAMIENTO INTERNO</p> </th> <td> <p>3 x M.2 2280 SSD (2xSATA/PCIe Combo,
+1x PCIe)<br>
+2 x 2,5"<br>
+1 x 3,5"</p> </td> </tr> <tr> <th> <p>SISTEMA OPERATIVO</p> </th> <td> <p>Windows 10 Home</p> </td> </tr> <tr> <th> <p>CONECTIVIDAD</p> </th> <td> <p>Wi-Fi 6 AX201<br>
+LAN 2.5G (Intel WGI225V) +
+1G (Intel WGI219V)<br>
+Bluetooth 5.1</p> </td> </tr> <tr> <th> <p>FUENTE DE ALIMENTACIÓN</p> </th> <td> <p>Modular 750W 80 Plus Gold</p> </td> </tr> <tr> <th> <p>PUERTOS</p> </th> <td> <p>1 x USB 3.2 Gen2 Tipo C<br>
+2 x USB 3.2 Gen1 Tipo A<br>
+1x Mic-in<br>
+1x Headphone-out<br>
+2 x USB 2.0<br>
+1 x puerto combinado PS/2<br>
+1x salida HDMI<br>
+1 x USB 3.2 Gen 2 Tipo C<br>
+3 x USB 3.2 Gen 2 Tipo A<br>
+1 x Thunderbolt 3<br>
+2 x RJ45 (2.5G + Gigabit LAN)<br>
+5x Conectores de audio<br>
+1 óptica S/PDIF</p> </td> </tr> <tr> <th> <p>PRECIO</p> </th> <td> <p>Por determinar</p> </td> </tr> </tbody></table> </div>
+</div>
+
+<h2>Un brutal PC gaming</h2>
+
+<div class="article-asset-image article-asset-normal"><div class="asset-content"> <div class="base-wrapper-image" style="padding-top: 49%;"> <img class="centro_sinmarco" data-sf-srcset="https://i.blogs.es/a146cc/aegis/450_1000.jpg 450w, https://i.blogs.es/a146cc/aegis/650_1200.jpg 681w, https://i.blogs.es/a146cc/aegis/1024_2000.jpg 1024w, https://i.blogs.es/a146cc/aegis/1366_2000.jpg 1366w" data-sf-src="https://i.blogs.es/a146cc/aegis/450_1000.jpg" alt="Aegis" srcset="https://i.blogs.es/a146cc/aegis/450_1000.jpg 450w, https://i.blogs.es/a146cc/aegis/650_1200.jpg 681w, https://i.blogs.es/a146cc/aegis/1024_2000.jpg 1024w, https://i.blogs.es/a146cc/aegis/1366_2000.jpg 1366w" src="https://i.blogs.es/a146cc/aegis/450_1000.jpg"><noscript><img alt="Aegis" src="https://i.blogs.es/a146cc/aegis/450_1000.jpg"></noscript> </div> </div></div>
+
+<p>Hablábamos antes del diseño, pero dejando de lado la estética conviene prestar especial atención al frontal y a la refrigeración. Por un lado, la torre tiene un indicador frontal (con RGB, sobra decir), que permite <strong>alternar entre diferentes modos de rendimiento</strong>. Además, se puede configurar para que al pulsarlo lance determinado juego e incluso para que funcione como panel de control de luces y sonido. MSI asegura que está equipado con IA y que es capaz de detectar nuestra ubicación para mostrarnos información como el tiempo y la temperatura directamente en el knob.</p>
+<!-- BREAK 3 -->
+<div class="article-asset-image article-asset-normal"><div class="asset-content"> <div class="base-wrapper-image" style="padding-top: 53.888888888889%;"> <img class="centro_sinmarco" data-sf-srcset="https://i.blogs.es/d19a3d/frontal/450_1000.jpg 450w, https://i.blogs.es/d19a3d/frontal/650_1200.jpg 681w, https://i.blogs.es/d19a3d/frontal/1024_2000.jpg 1024w, https://i.blogs.es/d19a3d/frontal/1366_2000.jpg 1366w" data-sf-src="https://i.blogs.es/d19a3d/frontal/450_1000.jpg" alt="Frontal" srcset="https://i.blogs.es/d19a3d/frontal/450_1000.jpg 450w, https://i.blogs.es/d19a3d/frontal/650_1200.jpg 681w, https://i.blogs.es/d19a3d/frontal/1024_2000.jpg 1024w, https://i.blogs.es/d19a3d/frontal/1366_2000.jpg 1366w" src="https://i.blogs.es/d19a3d/frontal/450_1000.jpg"><noscript><img alt="Frontal" src="https://i.blogs.es/d19a3d/frontal/450_1000.jpg"></noscript> </div> </div></div>
+
+<p>En cuanto a la refrigeración, MSI ha apostado por su tecnología <strong>Silent Storm Cooling 4</strong>. Es una tecnología de disipación que consiste en separar la GPU y la CPU en dos compartimientos y añadir una ventilación a la parte posterior de la placa para enfriar el Voltage Regulator Module. Sobra decir que el procesador cuenta con su propia <a href="https://www.xataka.com/componentes/refrigeracion-liquida-que-como-funciona-cuando-merece-pena-apostar-ella-para-propulsar-nuestro-pc">refrigeración líquida All in One</a>.</p>
+<!-- BREAK 4 --> <div class="ad ad-mid" style="">
+  <div class="ad-box" id="div-gpt-m-lat" style="">
+   <script>
+    googletag.cmd.push(function() { googletag.display("div-gpt-m-lat"); });
+   </script>
+  <div id="google_ads_iframe_/1018282/XTK-M-LAT-interior_0__container__" style="border: 0pt none; width: 300px; height: 0px;"></div></div>
+ </div>
+
+<div class="article-asset-image article-asset-normal"><div class="asset-content"> <div class="base-wrapper-image" style="padding-top: 48.444444444444%;"> <img class="centro_sinmarco" data-sf-srcset="https://i.blogs.es/8ecd14/cooling/450_1000.jpg 450w, https://i.blogs.es/8ecd14/cooling/650_1200.jpg 681w, https://i.blogs.es/8ecd14/cooling/1024_2000.jpg 1024w, https://i.blogs.es/8ecd14/cooling/1366_2000.jpg 1366w" data-sf-src="https://i.blogs.es/8ecd14/cooling/450_1000.jpg" alt="Cooling" srcset="https://i.blogs.es/8ecd14/cooling/450_1000.jpg 450w, https://i.blogs.es/8ecd14/cooling/650_1200.jpg 681w, https://i.blogs.es/8ecd14/cooling/1024_2000.jpg 1024w, https://i.blogs.es/8ecd14/cooling/1366_2000.jpg 1366w" src="https://i.blogs.es/8ecd14/cooling/450_1000.jpg"><noscript><img alt="Cooling" src="https://i.blogs.es/8ecd14/cooling/450_1000.jpg"></noscript> </div> </div></div>
+
+<p>En cuanto a componentes, la torre no se queda corta. En su configuración más alta, el MEG Aegis Ti5 monta un procesador <a href="https://www.xataka.com/analisis/intel-core-i9-10900k-core-i5-10600k-analisis-caracteristicas-precio-especificaciones">Intel Core i9-10900K</a>, una placa Intel Z490, una <strong>MSI GeForce RTX 3080 y hasta 128 GB de memoria RAM DDR4</strong>. Tiene tres bahías M.2 (2 x SATA/PCIe y una PCIe), dos bahías de 2,5 pulgadas y una de 2,5 pulgadas y una PSU modular de 750W categoría 80 Plus Gold. La conectividad queda a cargo de WiFi 6, LAN 2,5 G+1G y Bluetooth 5.1.</p>
+<!-- BREAK 5 -->
+<p>Finalmente, cabe destacar que el PC monta la tecnología <strong>MSI Sound Tune</strong>, que usa inteligencia artificial para filtrar el ruido del entorno y el del micrófono del resto de jugadores para ofrecer una comunicación más clara. Es una especie de cancelación de ruido basa en una red neuronal profundad que ha sido entrenada con más de 500 millones de datos.</p>
+<!-- BREAK 6 -->
+<h2>Versiones y precio del MSI MEG Aegis Ti5</h2>
+
+<p>¿Y cuánto cuesta esta monstruosidad de PC? MSI es un dato que se guarda para ella por ahora. La compañía <strong>no ha desvelado ni el precio ni la disponibilidad</strong>, pero estaremos pendientes para añadir el dato cuando esté disponible.</p>
+<!-- BREAK 7 -->   
+ </div>
