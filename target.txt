@@ -1,143 +1,440 @@
-<div class="crayons-article__body text-styles spec__body" data-article-id="1033981" id="article-body">
-            <p>Para el artículo de hoy, recrearemos el icónico logotipo de Netflix. Mientras trabajaba en este logo, lo encontré muy fácil. </p>
+<div class="post_ctn clearfix">
+ 
+    <!-- .title -->
 
-<p>Super Diversión para esforzarte 💖 </p>
+    <div class="post-title">
 
-<p>Echemos un vistazo al logo. </p>
+      <h2>
+<a href="https://www.clinica-galatea.com/es/bloc/liderazgo-instituciones-sanitarias/" class="tiptip">
 
-<p><a href="https://res.cloudinary.com/practicaldev/image/fetch/s--_b-IfdIg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1647410910018/spTELtuIz.jpeg" class="article-body-image-wrapper"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_b-IfdIg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1647410910018/spTELtuIz.jpeg" alt="Netflix logo" loading="lazy" width="880" height="587"></a></p><h2>
+        La importancia de un liderazgo efectivo y saludable en instituciones sanitarias y sanitarias </a>
+</h2>
 
-<a name="analysing-the-logo" href="#analysing-the-logo">
-  </a>
-  </h2>
-  Analizando el logo
-<p>
+    </div>
 
-</p>El logotipo está construido por tres palos del mismo tamaño; Sin embargo, el vehículo lanza una sombra y está distorsionada. <p>
+     <!-- .title END-->
+ 
+     <!-- post-info-top -->
 
-</p>Entonces, en la parte inferior, es bueno tener en cuenta que el logotipo es un poco redondeado. <p>
-
-</p>Mi idea es aprovechar los límites de los dos pilares laterales y los pseudo-elementos para hacer que el skew Stick + la sección inferior redondeada. <h2>
-
-<a name="recreating-the-netflix-logo-in-css" href="#recreating-the-netflix-logo-in-css">
-  </a>
-  </h2>
-  Recrear el logotipo de Netflix en CSS
-<p>
-
-<br>Hemos creado una caja simple y colocamos los bordes a la izquierda y la derecha para comenzar. </p>
-<div class="highlight js-code-highlight">
-
-<pre class="highlight css">
-<code><span class="nc"></span> Netflix <span class="p"></span>{<span class="nl">
-  </span>Altura <span class="p"></span><span class="m"></span>15 <span class="p"></span> <span class="nl">
-  </span>Ancho <span class="p"></span> <span class="m"></span>3R <span class="p"></span> <span class="nl">
-  </span>Borde izquierdo <span class="p"></span><span class="m"></span><span class="nb"></span>sólido <span class="m"></span># E50914 <span class="p"></span> <span class="nl">
-  </span>Borde-derecha <span class="p"></span><span class="m"></span><span class="nb"></span>SOLADO <span class="m"></span># E50914 <span class="p"></span> <span class="nl">
-  </span><span class="p"></span><span class="nb"></span><span class="p"></span><span class="p"></span></code> </pre>
-<div class="highlight__panel js-actions-panel"> <div class="highlight__panel-action js-fullscreen-code-action">
-<svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24" class="highlight-action crayons-icon highlight-action--fullscreen-on">
-<title>
-</title>
-    <path d="M16 3h6v6h-2V5h-4V3zM2 3h6v2H4v4H2V3zm18 16v-4h2v6h-6v-2h4zM4 19h4v2H2v-6h2v4z"></path>Inserte el modo de pantalla completa </svg>
-    <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24" class="highlight-action crayons-icon highlight-action--fullscreen-off">
-<title>
-
-    </title><path d="M18 7h4v2h-6V3h2v4zM8 9H2V7h4V3h2v6zm10 8v4h-2v-6h6v2h-4zM8 15v6H6v-4H2v-2h6z">Salir de modo de pantalla completa </path>
-    </svg>
-</div>
-
-</div>
-</div>
-<p>
-
-
-
-<code>Es importante tener en cuenta que </code>3 </p>será el tamaño para cada palo. <p>
-
-</p>Hasta ahora, recibimos el siguiente elemento de estilo. <p>
-
-<a href="https://res.cloudinary.com/practicaldev/image/fetch/s--kUiPRpvP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1647411594061/h7EtXSW0u.png" class="article-body-image-wrapper"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--kUiPRpvP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1647411594061/h7EtXSW0u.png" alt="Two sticks styled" loading="lazy" width="442" height="570"></a></p><p><br>
-
-<br>Agreguemos un primer elemento para agregar la tercera línea de pendiente. </p>
-La idea principal es que esto puede simplemente ser el ancho y la altura de la caja. <div class="highlight js-code-highlight">
-<pre class="highlight css">
-
-<code>
-<span class="o"></span><span class="nd">& amp; </span><span class="p"> Primero </span><span class="nl">{</span>
-  <span class="p">Ver </span><span class="nb"></span>bloque <span class="p"></span><span class="nl"> </span>
-  <span class="p">Contenido </span><span class="s2"></span><span class="p">'' </span><span class="nl"> </span>
-  <span class="p">Ancho </span><span class="m"></span>100% <span class="p"></span> <span class="nl">
-  </span>Altura <span class="p"></span><span class="m">100% </span><span class="p"> </span>
-  <span class="nl">Fondo </span><span class="p"></span><span class="m"># E50914 </span><span class="p"> </span>
-  <span class="nl">Transforme </span><span class="p"></span>SKEWX <span class="n"></span>(<span class="p"></span>21.5DEG <span class="m"></span>; <span class="p">
-  </span>Box-Shadow <span class="nl"></span><span class="p">0 </span><span class="m">0 </span><span class="m">30px </span><span class="m">Black </span><span class="no"> </span>
-<span class="p"> </span>
-<span class="p">
+    <div class="post-info">
+<span class="pi_author">
+Para <a href="https://www.clinica-galatea.com/es/bloc/author/continguts_clinica/" title="Entradas de Clínica Galatea" rel="author">
+Galatea Clinic </a>
+    <span class="pi_sep">
+| </span>
+    </span>
+<span class="pi_cat">
+<a href="https://www.clinica-galatea.com/bloc/category/profesionales-de-la-salud/" rel="category tag">
+Profesionales de la salud </a>
+    <span class="pi_sep">
+| </span>
+    </span>
+<span class="pi_comment">
+<a href="https://www.clinica-galatea.com/es/bloc/liderazgo-instituciones-sanitarias/#comments" class="comments-link tiptip">
+1 Evaluación </a>
+    <span class="pi_sep">
+| </span>
+    </span>
+<span class="pi_date">
+22 de octubre, 2021 <span class="pi_sep">
+| </span>
+    </span>
+<span class="pi_like">
+<a href="#" class="zilla-likes tiptip" id="zilla-likes-2702">
+<span class="zilla-likes-count">
+0 </span>
+ <span class="zilla-likes-postfix">
 </span>
-</code>
-    </pre><div class="highlight__panel js-actions-panel">Inserte el modo de pantalla completa <div class="highlight__panel-action js-fullscreen-code-action">
-    <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24" class="highlight-action crayons-icon highlight-action--fullscreen-on">
-<title>
+</a>
+</span>
+</div>
 
-    </title><path d="M16 3h6v6h-2V5h-4V3zM2 3h6v2H4v4H2V3zm18 16v-4h2v6h-6v-2h4zM4 19h4v2H2v-6h2v4z">Salir de modo de pantalla completa </path>
-    </svg>
-<svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24" class="highlight-action crayons-icon highlight-action--fullscreen-off">
+    <!-- post-info END-->
+     
+    <!-- .entry -->
+    
+    <div class="entry">
 
-<title>
-</title>
-<path d="M18 7h4v2h-6V3h2v4zM8 9H2V7h4V3h2v6zm10 8v4h-2v-6h6v2h-4zM8 15v6H6v-4H2v-2h6z">
-
-
-
-</path>Podemos ver al elemento tonto para adaptarlo a los bordes y agregar una pequeña sombra para tocar la sombra en los palos subyacentes. </svg>
-
-</div>Lo último que necesitamos es el efecto redondeado más bajo. </div>
-Vamos a frotar una caja redonda que compense desde abajo. </div>
+      
 <p>
-
+<strong>
+<em>
+Ent </em>
+</strong>
+<em>
+<strong>
+Miramos a María Pau González Gómez de Olmedo y Montserrat Flat Fernàndez. Maria Pau González </strong>
+Es médico en psicología. Especialista en Psicología Clínica. Máster en Liderazgo y Coaching Organizacional. Coordinador del área para la promoción de la salud y la prevención de la Fundación Galatea. <strong>
+Montserrat Flat </strong>
+Es médico y psicoterapeuta. Máster en Clínica y Salud Mental. Consultor para equipos y organizaciones. Especialista en programas Consultores para programas para la promoción de la salud y prevención de la Fundación Gallastia. </em>
 </p>
-<p><br><br>& amp; </p><div class="highlight js-code-highlight"><pre class="highlight css">Después de <code><span class="o">{</span>
-  <span class="nd">Contenido </span><span class="p"></span><span class="nl">'' </span><span class="p"> </span>
-  <span class="s2">Ancho </span><span class="p"></span><span class="nl"></span>15 <span class="p"></span> <span class="m">
-  </span>Altura <span class="p"></span><span class="nl"></span><span class="p">2RE </span><span class="m"> </span>
-  <span class="p">Fondo </span><span class="nl"></span><span class="p">Negro </span><span class="no"> </span>
-  <span class="p">Radio de borde </span><span class="nl"></span><span class="p">50% </span><span class="m"> </span>
-  <span class="p">Ver </span><span class="nl"></span>bloque <span class="p"></span><span class="nb"> </span>
-  <span class="p">Posición </span><span class="nl"></span><span class="p">Absolute </span><span class="nb"> </span>
-  <span class="p">Izquierda </span><span class="nl"></span><span class="p"></span>- 200% <span class="m"></span> <span class="p">
-  </span>TOP <span class="nl"></span><span class="p">98% </span><span class="m"> </span>
-<span class="p"> </span>
-<span class="p">
-</span>
-</code>
-    </pre><div class="highlight__panel js-actions-panel">Inserte el modo de pantalla completa <div class="highlight__panel-action js-fullscreen-code-action">
-    <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24" class="highlight-action crayons-icon highlight-action--fullscreen-on">
-<title>
-
-    </title><path d="M16 3h6v6h-2V5h-4V3zM2 3h6v2H4v4H2V3zm18 16v-4h2v6h-6v-2h4zM4 19h4v2H2v-6h2v4z">Salir de modo de pantalla completa </path>
-    </svg>
-<svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24" class="highlight-action crayons-icon highlight-action--fullscreen-off">
-
-<title>
-</title>
-<path d="M18 7h4v2h-6V3h2v4zM8 9H2V7h4V3h2v6zm10 8v4h-2v-6h6v2h-4zM8 15v6H6v-4H2v-2h6z">
 
 
 
-</path>Resultando en el siguiente codepen. </svg>
 
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
 </div>
+
+
+
+
+<p class="has-luminous-vivid-amber-background-color has-background">
+<strong>
+La Fundación Galatea ofrece un taller de liderazgo centrado en equipos y instituciones de atención médica. ¿Por qué consideras un tema en el que los profesionales de la salud deben ser entrenados? ¿Eres ejecutado sólo a los que están en posiciones de responsabilidad? </strong>
+</p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
 </div>
-</div>
+
+
+
 
 <p>
-  </p>
-  <p>
-  Gracias por leer y conectar!
-<iframe height="600" src="https://codepen.io/rebelchris/embed/NWXGWvd?height=600&amp;default-tab=result&amp;embed-version=2" scrolling="no" frameborder="no" allowtransparency="true" loading="lazy" style="width: 100%;">
-
-</iframe>Gracias por leer mi blog. Siéntase libre de inscribirse en mi boletín de correo electrónico y conectarse a Facebook </p>o <h3>Twitter <a name="thank-you-for-reading-and-lets-connect" href="#thank-you-for-reading-and-lets-connect"></a>
+La propuesta de este tipo de formación surge de diferentes motivaciones. Una es la complejidad actual de las organizaciones. Los profesionales de la salud desarrollan su actividad en entornos organizativos con grupos, equipos y liderazgo, experiencias de trabajo complejas vívidas y necesitan espacios para crear conciencia, desarrollar, reflejar y formar "know-how" en estos contextos de trabajo complejos. Otra motivación proviene de la audiencia activa de los profesionales a la que asistieron la Fundación Galatea: los conflictos de trabajo y los aspectos individuales se expresan, pero también importantes disfunciones institucionales, equipos y líderes institucionales. Y la tercera motivación proviene de las investigaciones en el campo de las organizaciones y la salud ocupacional mental, principalmente de las contribuciones de Jennie Firth-Cozens, quien concluye que Ecuto VEDE se adapta al factor para la protección de la salud mental del profesional de la salud. Cuando un equipo funciona, dos más dos son siempre más de cuatro y cuando no funciona, dos son siempre menos de cuatro. </p>
 
 
-          </h3>
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+La actividad dirigida por la Fundación Galatea está dirigida a profesionales que han tenido, o tendrán una posición de responsabilidad (formal, explícita). Pero todos los profesionales de la salud deben ejercer su responsabilidad y llevar su documento profesional sobre el papel; Por esta razón, el taller también está abierto a profesionales motivados, incluso si no tienen ninguna responsabilidad explícita. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p class="has-luminous-vivid-amber-background-color has-background">
+<strong>
+Los romanos distinguen entre "poderes" y "adherentes". El primero pareció simplemente mostrar poder y el segundo, por lo que llamamos "autoridad moral" o capacidad de liderazgo. ¿Cómo se puede alentar el segundo? </strong>
+</p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+A menudo encontramos una variedad de opiniones relacionadas con el concepto de autoridad y poder. Se puede ayudar a ir a la etimología de la palabra autoridad, que es un esclarecedor. La Autoridad proviene de la palabra "Autor", el latín de la raíz es "Augere". En consecuencia, el "autor" no es necesariamente quien cree que solo alguien que lo hace crecer y prosperar, es una calidad creativa de la persona. En un sentido moral y psicológico, apunta a la forma de ser una persona que genera un seguimiento de los valores propuestos. Sin embargo, lo que tiene autoridad no destruye al otro (autoritarismo), de su experiencia, ayuda a crecer el otro. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+Alguien tendrá autoridad sobre mí, ya que reconozco que su presencia en mi vida profesional es buena para mí y es un crecimiento. Cuando se dan cuenta de que en la relación con otra persona, hay una perspectiva de crecimiento y realización, no se sentirá incómodo reconocer la autoridad como legítima, y ​​puede obedecer su poder porque lo reconoce como bueno. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+Los "autorías" se basan en el reconocimiento de quienes lo reciben voluntariamente porque lo considera un consejo beneficioso o una influencia. Los "poderes" están relacionados, por otro lado, con un orden que solo requiere la presentación y el cumplimiento. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+¿Se puede alentar la autoridad? En el cable decimos, promoviendo la autoridad, el profesional debe tener habilidades y habilidades en el campo del liderazgo, pero básicamente debe transmitir los valores y debe poder comunicarse con la otra, de su experiencia, su experiencia, de su Experiencia, de su experiencia, su experiencia su experiencia, su experiencia, quiere contribuir a su crecimiento profesional. ¿Quién es el papel principal debe preguntarle: qué quiero? Mejore el crecimiento profesional y la calidad de la tarea y, como consecuencia, aquellos que se llevan a cabo ("AUTEUR") y simplemente obedecen ("poder"). </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+Anton Obolzer, al analizar el papel del inconsciente en el trabajo, se refiere a <em>
+Autoridad Superior, </em>
+ El dado por la organización; <em>
+Baja Autoridad, </em>
+ Reconoce y ratifica al equipo y <em>
+Autoridad Interna </em>
+, lo que se reconoce, la autorización o la confirmación del individuo. La autoridad en la mente, cuál de ellos es de sí misma, es un aspecto crucial de cómo y en qué medida y la competencia es el papel principal. Este es un aspecto clave para promover la autoridad y el ejercicio. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p class="has-luminous-vivid-amber-background-color has-background">
+<strong>
+¿Cuáles son los principales estilos de liderazgo? ¿Cómo influyes en su computadora o instituciones? </strong>
+</p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+El liderazgo se estudia a partir de tres grupos de teorías: a) aquellos que se centran en las características personales del líder; b) Aquellos que analizan los estilos de liderazgo y (c) teorías de contingencia, que estudian la relación del líder con su grupo y el trabajo a realizar. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+Estilos de liderazgo clásico, descrito por Kurt Lewin, contemplado de <em>
+Liderazgo autoritario </em>
+o <em>
+ Estructura </em>
+Para <em>
+Demócrata </em>
+o <em>
+ Soporte </em>
+ o <em>
+Laissez-Faire </em>
+. Las teorías más recientes también incluyen otras dimensiones. En las actividades de la Fundación Galatea, incorporamos la perspectiva de la gestión corporativa de Hersey & AMP; Blanchard, que busca la correlación entre la tarea que se llevará a cabo y la conexión interpersonal con el líder. Y también incluimos la noción de liderazgo tridimensional de Gary Yukl, lo que afecta a la función de gestión triple del líder: a) tarea; b) de personas y c) de cambio. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+Pero básicamente, trabajamos cerca de las llamadas de contingencia por las teorías. Fiedler, uno de los autores más discapacitados, sugiere que lo más importante es la relación del líder con el grupo, especialmente entre el trabajo que se llevará a cabo y la situación del poder del líder. El líder con su estilo de operación, el grupo / equipo y la tarea de hacer deben llegar a un estilo de acuerdo. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+Por ejemplo: un líder con características muy democráticas y flexibles, en un grupo que depende de un límite, con una tarea para realizar, en una organización que delega poco poder, no adopta el mismo estilo de operación y la tarea probablemente será Hecho con dificultad y generar frustración tanto en el grupo como en el líder. En este grupo y para esta tarea, sería mejor adaptarse a un líder menos democrático y autoritario. Por otro lado, un grupo creativo que tiene que llevar a cabo una tarea innovadora se beneficiará de un líder flexible y colaborativo, mientras que una "estructuración autorizada" no estaría bien alineada con el grupo. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+Cuando hablamos, también nos referimos a la distancia entre el grupo, el líder y el trabajo que permite diferenciar y avanzar. Es aconsejable que el líder se mantenga un poco por delante del grupo; Si la distancia entre el líder y el grupo es excelente, el grupo no lo seguirá, si es pequeño, el grupo no avanza. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p class="has-luminous-vivid-amber-background-color has-background">
+<strong>
+¿Qué se refiere al concepto de cultura de las organizaciones? ¿Cómo influyen en nuestro trabajo diario? </strong>
+</p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+Entendemos la cultura de la organización el grupo de creencias explícitas del grupo, normas, valores, rituales, lenguaje y estilo de comunicación compartidos por las personas de una organización. Se manifiesta en comportamientos y expresiones que guían la actitud de las personas que están compuestas y tienen que ver con los orígenes y la historia de la organización. Muestra, dando imagen corporativa y dentro, como el ambiente o el clima de trabajo. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+La cultura de una organización influye en muchos aspectos. Asignamos dos que son muy comunes en nuestro entorno. Cuando un profesional ingresa a una organización, recibe impactos culturales en el comportamiento, cómo vestirse, cumplir los horarios y los valores que deben incorporarse total o parcialmente para ser parte de esta organización. Si una persona no puede incorporar y compartir la cultura del grupo, tendrá una adaptación difícil y no se puede adaptar. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+La cultura también afecta significativamente los procesos de cambio. Cuando surge un líder, debe contemplar estratégicamente y trabajar en el cambio cultural involucrado en el grupo. Por ejemplo, un hospital que quiere lograr el objetivo de "poner al paciente y sus familiares al centro de atención" puede llevar al servicio de neonatología para organizar y trabajar para que los padres entretengan en cualquier momento para acompañar a su bebé. Mientras que, hasta entonces, solo se contemplaron el acceso de los padres a ciertos planes de tiempo. Esta transformación es un cambio cultural a los profesionales y también para los miembros de la familia. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p class="has-luminous-vivid-amber-background-color has-background">
+<strong>
+¿Cree que las experiencias experimentadas por los profesionales de la salud e instituciones durante VOC-19 promovieron un aumento de interés en estos problemas de salud? & Nbsp; </strong>
+</p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+La crisis covid-19 contribuyó y confirmó la importancia del trabajo en equipo y el acuerdo entre la tarea y el equipo de liderazgo. Hemos observado que los equipos ya han trabajado con dinámicas positivas tienen mejores conflictos obsoletos y han contribuido a mejorar el bienestar de los profesionales o, al menos, a ser servido como un modulador de las diferentes fuentes de incomodidad que se activaron después de la pandemia. Mientras que los equipos en los que sucedió lo contrario, ya estaban disfuncionales antes de COVID-19. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+Hemos observado que el liderazgo acordó más con la situación que la pandemia activada ha sido el liderazgo de la estructuración autoritaria, la empatía y la transparencia, sino el ejercicio de la autoridad y la decisión de incertidumbre. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+Esta situación despertó interés en las áreas organizativas y de gestión, aunque los profesionales de la salud aún están lejos de contribuir, activamente y colaborativamente, para encontrar mejores formas de gestionar el trabajo. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p class="has-luminous-vivid-amber-background-color has-background">
+<strong>
+¿Cómo crees que debe unirse al aprendizaje de estas habilidades en la capacitación de los profesionales de la salud? & Nbsp; </strong>
+</p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+Aprenda habilidades para trabajar como equipo y liderazgo, en el sentido de ejercer la autoridad de que la función se rinde, debe estar presente en el proceso de capacitación de todos los profesionales de la salud. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+En la capacitación en grado, la metodología debe incorporarse o ampliarse como un equipo y tiene espacios para identificar y observar los incidentes, las dificultades y los beneficios del trabajo en equipo. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+En la residencia, así como las formaciones de capacitación de graduados y profesionales, este tipo de habilidad se adquiere fundamentalmente por el aprendizaje experimentado, basado en la sensación, la observación, el pensamiento y la acción. Por esta razón, es necesario tener un tutorial espacial y llevar a cabo profesionales experimentados en este campo que favorece la elaboración de las diferentes experiencias y poder integrarlos para mejorar la autoridad y el ejercicio del papel. </p>
+
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer">
+</div>
+
+
+
+
+<p>
+Esta capacitación, enfocada en el aprendizaje y el conocimiento, debe complementarse con aspectos y habilidades conceptuales que contribuyen al aprendizaje satisfactorio. </p>
+
+    </div>
+   
+    <!-- .entry END -->
+ 
+     </div>

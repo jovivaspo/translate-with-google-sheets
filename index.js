@@ -62,15 +62,20 @@ const translate = async (text, lenguages, type = 'txt') => {
 
         const D2 = sheet.getCellByA1('D2')
 
+        //Deleting script tags
+        text = text.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/g,"")
+
         //Add original text in cell A2
         A2.value = text
 
         //Save html tags
         const tags = text.match(/<(.*?)>/g)
-        console.log(tags)
+       console.log(tags.length)
       
         //Step 1: Delete contain tags (cell B2)
-        text = text.replace(/<(.*?)>/g,"<>")
+       // text = text.replace(/\n|\t/g,"")
+        text = text.replace(/<(.*?)>/g, "<javascript>\n")
+
       
         B2.value = text
 
@@ -86,25 +91,22 @@ const translate = async (text, lenguages, type = 'txt') => {
 
         await sheet.saveUpdatedCells()
 
-        console.log(tags.length)
         
-
         let textTranslated = C2.value
 
-        const tagsS = textTranslated.match(/<>/g)
-        console.log(tagsS.length)
-
-        textTranslated  = textTranslated.replace(/<>./g,"<>")
+         textTranslated  = textTranslated.replace(/<javascript>[.]/gi,"<javascript>")
+         const tagsJavascript = textTranslated.match(/<javascript>/gi)
+         console.log(tagsJavascript.length)
         //Add original tags
         tags.forEach(tag => {
-           textTranslated = textTranslated.replace(/<>/, tag)
+           textTranslated = textTranslated.replace(/<javascript>/i, tag)
         })
 
         D2.value = textTranslated
 
         await sheet.saveUpdatedCells()
 
-        console.log(textTranslated)
+       // console.log(textTranslated)
 
         return textTranslated
     }
@@ -133,7 +135,7 @@ const writeText = async (text) => {
 
 (async () => {
     const text = await readText()
-    const textTranslated = await translate(text, ["en", "it", "pt", "es"], 'html')
+    const textTranslated = await translate(text, ["es","pt", "es","ca","es"], 'html')
     await writeText(textTranslated)
 })()
 

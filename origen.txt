@@ -1,143 +1,241 @@
-<div class="crayons-article__body text-styles spec__body" data-article-id="1033981" id="article-body">
-            <p>For today's article, we'll recreate the iconic Netflix logo. While working on this logo, I found it was quite an easy one.</p>
-
-<p>Super fun to try yourself 💖</p>
-
-<p>Let's take a look at the logo.</p>
-
-<p><a href="https://res.cloudinary.com/practicaldev/image/fetch/s--_b-IfdIg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1647410910018/spTELtuIz.jpeg" class="article-body-image-wrapper"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--_b-IfdIg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1647410910018/spTELtuIz.jpeg" alt="Netflix logo" loading="lazy" width="880" height="587"></a></p>
-
-<h2>
-  <a name="analysing-the-logo" href="#analysing-the-logo">
-  </a>
-  Analysing the logo
-</h2>
-
-<p>The logo is built up by three sticks of the same size; however, the middle one casts a shadow and is skewed.</p>
-
-<p>Then at the bottom, it's good to note the logo is a bit rounded off.</p>
-
-<p>My idea is to leverage borders for the two side pillars and pseudo-elements to make the skew stick + the rounded bottom section.</p>
-
-<h2>
-  <a name="recreating-the-netflix-logo-in-css" href="#recreating-the-netflix-logo-in-css">
-  </a>
-  Recreating the Netflix logo in CSS
-</h2>
-
-<p>Let's create a simple box and set the borders left and right to get started.<br>
-</p>
-
-<div class="highlight js-code-highlight">
-<pre class="highlight css"><code><span class="nc">.netflix</span> <span class="p">{</span>
-  <span class="nl">height</span><span class="p">:</span> <span class="m">15rem</span><span class="p">;</span>
-  <span class="nl">width</span><span class="p">:</span> <span class="m">3rem</span><span class="p">;</span>
-  <span class="nl">border-left</span><span class="p">:</span> <span class="m">3rem</span> <span class="nb">solid</span> <span class="m">#e50914</span><span class="p">;</span>
-  <span class="nl">border-right</span><span class="p">:</span> <span class="m">3rem</span> <span class="nb">solid</span> <span class="m">#e50914</span><span class="p">;</span>
-  <span class="nl">position</span><span class="p">:</span> <span class="nb">relative</span><span class="p">;</span>
-<span class="p">}</span>
-</code></pre>
-<div class="highlight__panel js-actions-panel">
-<div class="highlight__panel-action js-fullscreen-code-action">
-    <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24" class="highlight-action crayons-icon highlight-action--fullscreen-on"><title>Enter fullscreen mode</title>
-    <path d="M16 3h6v6h-2V5h-4V3zM2 3h6v2H4v4H2V3zm18 16v-4h2v6h-6v-2h4zM4 19h4v2H2v-6h2v4z"></path>
-</svg>
-
-    <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24" class="highlight-action crayons-icon highlight-action--fullscreen-off"><title>Exit fullscreen mode</title>
-    <path d="M18 7h4v2h-6V3h2v4zM8 9H2V7h4V3h2v6zm10 8v4h-2v-6h6v2h-4zM8 15v6H6v-4H2v-2h6z"></path>
-</svg>
-
-</div>
-</div>
-</div>
+<div class="post_ctn clearfix"> 
+    <!-- .title -->
+    <div class="post-title">
+      <h2><a href="https://www.clinica-galatea.com/es/bloc/liderazgo-instituciones-sanitarias/" class="tiptip">
+        La importancia de un liderazgo eficaz y saludable en los equipos e instituciones sanitarias        </a></h2>
+    </div>
+     <!-- .title END--> 
+     <!-- post-info-top -->
+    <div class="post-info"><span class="pi_author">By <a href="https://www.clinica-galatea.com/es/bloc/author/continguts_clinica/" title="Entradas de Clínica Galatea" rel="author">Clínica Galatea</a>    <span class="pi_sep">|</span>    </span><span class="pi_cat"><a href="https://www.clinica-galatea.com/bloc/category/profesionales-de-la-salud/" rel="category tag">profesionales de la salud</a>    <span class="pi_sep">|</span>    </span><span class="pi_comment"><a href="https://www.clinica-galatea.com/es/bloc/liderazgo-instituciones-sanitarias/#comments" class="comments-link tiptip">1  comment</a>    <span class="pi_sep">|</span>    </span><span class="pi_date">22 octubre, 2021    <span class="pi_sep">|</span>    </span><span class="pi_like"><a href="#" class="zilla-likes tiptip" id="zilla-likes-2702"><span class="zilla-likes-count">0</span> <span class="zilla-likes-postfix"></span></a></span></div>
+    <!-- post-info END-->     
+    <!-- .entry -->    
+    <div class="entry">
+      
+<p><strong><em>Ent</em></strong><em><strong>revistamos a Maria Pau González Gómez de Olmedo y a Montserrat Plana Fernàndez. Maria Pau González </strong>es doctora en Psicología. Especialista en Psicología Clínica. Máster en Liderazgo y Coaching Organizativo. Coordinadora del área de promoción de la salud y prevención de la Fundación Galatea. <strong>Montserrat Plana </strong>es médica y psicoterapeuta. Máster en Clínica y Salud Mental. Consultora de equipos y organizaciones. Experta en grupos. Asesora de los programas de promoción de la salud y prevención de la Fundación Galatea.</em></p>
 
 
 
-<p>It's important to note the <code>3rem</code> will be the size for each stick.</p>
-
-<p>So far, we get the following styled element.</p>
-
-<p><a href="https://res.cloudinary.com/practicaldev/image/fetch/s--kUiPRpvP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1647411594061/h7EtXSW0u.png" class="article-body-image-wrapper"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--kUiPRpvP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1647411594061/h7EtXSW0u.png" alt="Two sticks styled" loading="lazy" width="442" height="570"></a></p>
-
-<p>Let's add a before element to add the third skew line.<br>
-The main idea is that this can be simply the width and height of the box.<br>
-</p>
-
-<div class="highlight js-code-highlight">
-<pre class="highlight css"><code><span class="o">&amp;</span><span class="nd">:before</span> <span class="p">{</span>
-  <span class="nl">display</span><span class="p">:</span> <span class="nb">block</span><span class="p">;</span>
-  <span class="nl">content</span><span class="p">:</span> <span class="s2">''</span><span class="p">;</span>
-  <span class="nl">width</span><span class="p">:</span> <span class="m">100%</span><span class="p">;</span>
-  <span class="nl">height</span><span class="p">:</span> <span class="m">100%</span><span class="p">;</span>
-  <span class="nl">background</span><span class="p">:</span> <span class="m">#e50914</span><span class="p">;</span>
-  <span class="nl">transform</span><span class="p">:</span> <span class="n">skewX</span><span class="p">(</span><span class="m">21.5deg</span><span class="p">);</span>
-  <span class="nl">box-shadow</span><span class="p">:</span> <span class="m">0</span> <span class="m">0</span> <span class="m">30px</span> <span class="no">black</span><span class="p">;</span>
-<span class="p">}</span>
-</code></pre>
-<div class="highlight__panel js-actions-panel">
-<div class="highlight__panel-action js-fullscreen-code-action">
-    <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24" class="highlight-action crayons-icon highlight-action--fullscreen-on"><title>Enter fullscreen mode</title>
-    <path d="M16 3h6v6h-2V5h-4V3zM2 3h6v2H4v4H2V3zm18 16v-4h2v6h-6v-2h4zM4 19h4v2H2v-6h2v4z"></path>
-</svg>
-
-    <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24" class="highlight-action crayons-icon highlight-action--fullscreen-off"><title>Exit fullscreen mode</title>
-    <path d="M18 7h4v2h-6V3h2v4zM8 9H2V7h4V3h2v6zm10 8v4h-2v-6h6v2h-4zM8 15v6H6v-4H2v-2h6z"></path>
-</svg>
-
-</div>
-</div>
-</div>
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
 
-<p>We can see we skew the element to fit the edges and add a bit of box-shadow to cast the shadow on the sticks below.</p>
-
-<p>The last thing we need is the bottom rounded effect.<br>
-We'll leverage a round box that we offset from the bottom.<br>
-</p>
-
-<div class="highlight js-code-highlight">
-<pre class="highlight css"><code><span class="o">&amp;</span><span class="nd">:after</span> <span class="p">{</span>
-  <span class="nl">content</span><span class="p">:</span> <span class="s2">''</span><span class="p">;</span>
-  <span class="nl">width</span><span class="p">:</span> <span class="m">15rem</span><span class="p">;</span>
-  <span class="nl">height</span><span class="p">:</span> <span class="m">2rem</span><span class="p">;</span>
-  <span class="nl">background</span><span class="p">:</span> <span class="no">black</span><span class="p">;</span>
-  <span class="nl">border-radius</span><span class="p">:</span> <span class="m">50%</span><span class="p">;</span>
-  <span class="nl">display</span><span class="p">:</span> <span class="nb">block</span><span class="p">;</span>
-  <span class="nl">position</span><span class="p">:</span> <span class="nb">absolute</span><span class="p">;</span>
-  <span class="nl">left</span><span class="p">:</span> <span class="m">-200%</span><span class="p">;</span>
-  <span class="nl">top</span><span class="p">:</span> <span class="m">98%</span><span class="p">;</span>
-<span class="p">}</span>
-</code></pre>
-<div class="highlight__panel js-actions-panel">
-<div class="highlight__panel-action js-fullscreen-code-action">
-    <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24" class="highlight-action crayons-icon highlight-action--fullscreen-on"><title>Enter fullscreen mode</title>
-    <path d="M16 3h6v6h-2V5h-4V3zM2 3h6v2H4v4H2V3zm18 16v-4h2v6h-6v-2h4zM4 19h4v2H2v-6h2v4z"></path>
-</svg>
-
-    <svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 24 24" class="highlight-action crayons-icon highlight-action--fullscreen-off"><title>Exit fullscreen mode</title>
-    <path d="M18 7h4v2h-6V3h2v4zM8 9H2V7h4V3h2v6zm10 8v4h-2v-6h6v2h-4zM8 15v6H6v-4H2v-2h6z"></path>
-</svg>
-
-</div>
-</div>
-</div>
+<p class="has-luminous-vivid-amber-background-color has-background"><strong>La Fundación Galatea lleva unos años ofreciendo un taller sobre liderazgo enfocado a los equipos e instituciones sanitarias. ¿Por qué consideran que es un tema en el que los profesionales de la salud deben formarse? ¿Está dirigido sólo a quienes están en puestos de responsabilidad?</strong></p>
 
 
 
-<p>Which result in the following CodePen.</p>
-
-<p><iframe height="600" src="https://codepen.io/rebelchris/embed/NWXGWvd?height=600&amp;default-tab=result&amp;embed-version=2" scrolling="no" frameborder="no" allowtransparency="true" loading="lazy" style="width: 100%;">
-</iframe>
-</p>
-
-<h3>
-  <a name="thank-you-for-reading-and-lets-connect" href="#thank-you-for-reading-and-lets-connect">
-  </a>
-  Thank you for reading, and let's connect!
-</h3>
-
-<p>Thank you for reading my blog. Feel free to subscribe to my email newsletter and connect on <a href="https://www.facebook.com/DailyDevTipsBlog">Facebook</a> or <a href="https://twitter.com/DailyDevTips1">Twitter</a></p>
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
-          </div>
+
+<p>La propuesta de este tipo de formación surge de diferentes motivaciones. Una de ellas es la complejidad actual de las organizaciones. Los profesionales de la salud desarrollan su actividad en entornos organizativos con grupos, equipos y liderazgos, viven experiencias laborales complejas y necesitan espacios donde sensibilizar, elaborar, reflexionar y formarse para adecuar el “saber estar” en estos contextos laborales complejos. Otra motivación viene de la escucha activa de los profesionales que se atienden en la Fundación Galatea: en sus relatos se expresa conflicto laboral y se manifiestan aspectos individuales, pero también importantes disfunciones institucionales, de los equipos y de los líderes. Y la tercera motivación viene de las investigaciones en el campo de las organizaciones y de la salud mental laboral, principalmente de las aportaciones de Jennie Firth-Cozens, que concluyen que el equipo puede convertirse en un factor de protección para la salud mental de los profesionales de la salud. Cuando un equipo funciona, dos más dos siempre es más que cuatro y, cuando no funciona, dos más dos es siempre menos que cuatro.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>La actividad que dirige la Fundación Galatea va dirigida a profesionales que han tenido, tienen o tendrán un puesto de responsabilidad (formal, explícita). Pero todos los profesionales sanitarios han de ejercer su responsabilidad y liderar desde el rol su actividad profesional; por este motivo el taller también está abierto a los profesionales motivados, aunque no tengan una responsabilidad explícita.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-luminous-vivid-amber-background-color has-background"><strong>Los romanos distinguían entre “potestas” y “auctoritas”. La primera hacía referencia simplemente a ostentar el poder, y la segunda, a lo que llamamos “autoridad moral” o capacidad de liderazgo. ¿Cómo puede fomentarse la segunda?</strong></p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Encontramos con frecuencia diversidad de opiniones relacionadas con el concepto de autoridad y poder. Quizás ayude recorrer a la etimología de la palabra autoridad, que es esclarecedora. Autoridad proviene de la palabra “autor”, cuya raíz latina es “augere”. Según esto, “autor” no es necesariamente quien crea sino aquel que hace que algo crezca y prospere, es una cualidad creadora de la persona. En un sentido moral y psicológico, señala el modo de ser de una persona que suscita seguimiento en los valores que propone. El que tiene autoridad no destruye al otro (autoritarismo) sino que, desde su experiencia, ayuda a crecer al otro.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Alguien tendrá autoridad sobre mí en la medida en la que reconozco que su presencia en mi vida profesional es un bien para mí y supone un crecimiento. Cuando uno percibe que, en la relación con otra persona, hay perspectiva de crecimiento y realización, no tendrá inconveniente en reconocer la autoridad como legítima, y podrá obedecer a su poder porque lo reconoce como bueno.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>La “auctoritas” se fundamenta en el reconocimiento de quien la recibe voluntariamente, por considerarla como un consejo o influencia beneficiosa. La “potestas” se relaciona, en cambio, con un mando que sólo requiere sumisión y acatamiento.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>¿Puede fomentarse la autoridad? Al hilo de lo que veníamos diciendo, para fomentar la autoridad el profesional debe tener capacidades y competencias en el ámbito de liderazgo, pero, fundamentalmente, ha de transmitir valores y ha de ser capaz de comunicar al otro/s que, desde su experiencia, quiere contribuir a su crecimiento profesional. Quien está en el rol de liderazgo debería preguntarse: ¿qué quiero? Potenciar el crecimiento profesional y la calidad del quehacer y, como consecuencia de ello, que quienes dirijo me sigan (“auctoritas”) y no simplemente me obedezcan (“potestas”).</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Anton Obholzer, al analizar el papel del inconsciente en el trabajo, habla de la <em>autoridad desde arriba,</em> la que te da la organización; la <em>autoridad desde abajo,</em> la que te reconoce y ratifica el equipo, y la <em>autoridad desde dentro</em>, la que uno mismo se reconoce, la autorización o confirmación desde el interior del individuo. La autoridad en la mente, la que uno tiene de sí mismo, es un aspecto crucial sobre cómo, y en qué medida y competencia, es asumido el rol de liderazgo. Este es un aspecto fundamental para fomentar la autoridad y ejercerla.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-luminous-vivid-amber-background-color has-background"><strong>¿Cuáles son los principales estilos de liderazgo? ¿Cómo influyen en los equipos o instituciones?</strong></p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>El liderazgo se estudia desde tres grupos de teorías: a) las que se centran en las características personales del líder; b) las que analizan los estilos de liderazgo, y, c) las teorías de contingencia, que estudian la relación del líder con su grupo y la tarea a realizar.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Los estilos clásicos de liderazgo, descritos por Kurt Lewin, contemplan desde el <em>liderazgo autoritario </em>o<em> estructurante</em>, al <em>democrático </em>o<em> de apoyo</em> o al <em>laissez-faire</em>. Las teorías más recientes incluyen también otras dimensiones. En las actividades de la Fundación Galatea, incorporamos la perspectiva del liderazgo situacional de Hersey &amp; Blanchard, que busca la correlación entre tarea a realizar y el vínculo interpersonal con el líder. Y también incluimos la noción de liderazgo tridimensional de Gary Yukl, que incide en la triple función de gestión del líder: a) de la tarea; b) de las personas, y, c) del cambio.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Pero, fundamentalmente, trabajamos cercanos a las teorías llamadas de contingencia. Fiedler, uno de los autores que más ha ahondado en ello, sugiere que lo más importante es la relación del líder con el grupo, especialmente, entre la tarea a realizar y la situación de poder del líder. El líder con su estilo de funcionamiento, el grupo/equipo y la tarea a realizar tienen que alcanzar un estilo en concordancia.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Por ejemplo: un líder con características muy democráticas, flexible, en un grupo dependiente poco autónomo, con una tarea a realizar estructurante, en una organización que delega poco el poder, no adoptan el mismo estilo de funcionamiento, y probablemente la tarea se realizará con dificultad y generará frustración tanto al grupo como al líder. En este grupo y para esta tarea encajaría mejor un líder menos democrático, más autoritario. En cambio, un grupo creativo que tiene que realizar una tarea innovadora se beneficiará de un líder flexible y colaborador, mientras que un líder autoritario “estructurante” no se alinearía adecuadamente con el grupo.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Cuando hablamos de concordancia también nos referimos a encontrar una distancia entre el grupo, el líder y la tarea que permita diferenciarse y avanzar. Es aconsejable que el líder pueda ir un poco por delante del grupo; si la distancia entre líder y grupo es grande, el grupo no le sigue mientras que, si es poca, el grupo no avanza.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-luminous-vivid-amber-background-color has-background"><strong>¿A qué se refiere el concepto de cultura de las organizaciones? ¿Cómo influye en nuestro quehacer diario?</strong></p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Entendemos por cultura de la organización el conjunto de creencias explícitas del grupo, normas, valores, rituales, lenguaje y estilo de comunicación compartidos por las personas de una organización. Se manifiesta en comportamientos y expresiones que orientan la actitud de las personas que la integran y tiene que ver con los orígenes y la historia de dicha organización. Se visualiza hacia fuera, dando imagen corporativa, y hacia dentro, como ambiente o clima de trabajo.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>La cultura de una organización influye en muchos aspectos. Resaltaremos dos que son muy habituales en nuestro entorno. Cuando un profesional entra en una organización, recibe impactos culturales sobre comportamiento, manera de vestir, cumplimiento de los horarios y valores que tiene que incorporar total o parcialmente para formar parte de esta organización. Si una persona no puede incorporar y compartir la cultura del grupo, tendrá una adaptación difícil y puede que no se adapte.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>La cultura también afecta notablemente a los procesos de cambio. Cuando un líder se plantea cambios, se ha de contemplar estratégicamente y trabajar el cambio cultural que implica en el grupo. Por ejemplo, un hospital que quiere alcanzar el objetivo de “colocar al paciente y sus familiares en el centro de la atención” puede llevar al servicio de neonatología a organizar y trabajar para que los padres entren en cualquier momento a acompañar a su bebé. Mientras que, hasta entonces, sólo se contemplaba el acceso de los padres en determinadas franjas horarias. Esta transformación supone un cambio cultural para los profesionales y también para los familiares.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-luminous-vivid-amber-background-color has-background"><strong>¿Creen que las experiencias vividas por los profesionales e instituciones del ámbito de la salud durante la COVID-19 han propiciado un aumento del interés por estas cuestiones entre los sanitarios?&nbsp;</strong></p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>La crisis de la COVID-19 ha contribuido y confirmado la importancia del trabajo en equipo y de la concordancia entre equipo tarea y liderazgo. Hemos observado que los equipos que ya funcionaban con dinámicas positivas han superado mejor los conflictos y han contribuido a mejorar el bienestar de los profesionales o, al menos, han servido de modulador de las distintas fuentes de malestar que se han activado tras la pandemia. Mientras que los equipos en los que ha sucedido lo contrario ya eran disfuncionales antes de la COVID-19.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Observamos que el liderazgo más concordante con la situación que la pandemia activó ha sido el liderazgo estructurante autoritario, con empatía y transparencia, pero ejerciendo la autoridad y tomando decisiones desde la incertidumbre.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Esta situación ha suscitado interés en los ámbitos organizativos y de dirección, si bien los profesionales asistenciales aún están lejos de contribuir, de manera activa y colaborativa, a encontrar mejores maneras de gestionar el trabajo.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-luminous-vivid-amber-background-color has-background"><strong>¿Cómo creen que debe incorporarse el aprendizaje de estas habilidades en el recorrido formativo de los profesionales de la salud?&nbsp;</strong></p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>El aprendizaje de las habilidades para trabajar en equipo y las de liderazgo, en el sentido de ejercer la autoridad que nos confiere el rol, tendría que estar presente en el proceso formativo de todos los profesionales de la salud.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>En la formación de grado, tendría que incorporarse o ampliar la metodología de trabajar en equipo y disponer de espacios para identificar y observar las incidencias, dificultades y beneficios del trabajo en equipo.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>En la residencia, así como en las formaciones de postgrado y a lo largo del desarrollo profesional, este tipo de competencias se adquieren fundamentalmente por el aprendizaje por la experiencia, basado en sentir, observar, pensar y actuar. Para ello, es necesario disponer de espacios tutelados y conducidos por profesionales con experiencia en ese campo que favorezcan la elaboración de las diferentes vivencias y poder integrarlas para potenciar la autoridad y el ejercicio del rol.</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p>Esta formación, centrada en el saber ser y saber estar, tiene que complementarse con aspectos conceptuales y habilidades que contribuyan a un aprendizaje satisfactorio.</p>
+    </div>   
+    <!-- .entry END --> 
+     </div>
