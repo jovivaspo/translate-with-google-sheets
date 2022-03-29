@@ -1,11 +1,11 @@
 const { GoogleSpreadsheet } = require('google-spreadsheet')
-const fs = require("fs")
 require('dotenv').config()
 
 // Initialize the sheet - doc ID is the long id in the sheets URL
 const doc = new GoogleSpreadsheet(process.env.ID)
 
 
+//Main function to translate,inputs => text to translate, array with lenguages and type (default txt) 
 const translate = async (text, lenguages, type = 'txt') => {
     // Initialize Auth - see https://theoephraim.github.io/node-google-spreadsheet/#/getting-started/authentication
     await doc.useServiceAccountAuth({
@@ -115,29 +115,5 @@ const translate = async (text, lenguages, type = 'txt') => {
 
 
 
-//Read text original from origen.txt
-const readText = async () => {
-    const NAME_FILE =  "origen.txt"
-    try {
-        const text = fs.readFileSync(NAME_FILE, { encoding: 'utf8', flag: 'r' })
-
-        return text
-    } catch (err) {
-        console.log(err)
-    }
-}
-//Write text translated in target.txt
-const writeText = async (text) => {
-    fs.writeFileSync("target.txt", text)
-    console.log("Text translated")
-}
-
-
-
-(async () => {
-    const text = await readText()
-    const textTranslated = await translate(text, ["es","en"],"html")
-    await writeText(textTranslated)
-})()
-
+module.exports = translate
 
